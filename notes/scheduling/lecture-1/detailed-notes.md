@@ -574,6 +574,15 @@ And whether the lift is **structural**. The eligibility criteria: it should be b
 Apart from the four pillars, two more elements, **S** and **V**, work like the interior decor of a house. A house is not made only of pillars and walls: it also needs nice interiors. S and V are the finishing touches.
 
 - **S = Sequence.** The correct order of exercises, discussed repeatedly in earlier lectures: **unsupported compound, then supported compound, then isolation, then unilateral**.
+
+**Tie-breaker: largest muscle first.** Within the same type of exercise, do the exercise for the **largest muscle first**, because it can lift the **heaviest** load and needs you freshest. Compounds come before isolations, and the small muscles that help every press (such as the triceps) are worked last, so they are not tired before the main lifts.
+
+**Worked example: a pectoral and deltoid pushing workout.** The best order is **flat bench DB press, incline DB press, overhead press, lateral raise, triceps pushdown**.
+
+- **Flat before incline:** the flat press mainly works the **sternocostal head and the abdominal head**, the other two heads of the pectoralis major, which together make up most of the muscle and can lift the heaviest. The incline press (about +30 degrees) focuses on the **clavicular head**, which is only about **25 percent** of the pectoralis major, so it comes second. (Course slide, "Angles for training the chest": flat targets the sternocostal and abdominal heads, decline targets the abdominal and sternocostal heads, incline targets the clavicular head.)
+- **Presses before isolations:** the overhead press (a compound) comes before the lateral raise (single joint, side deltoid).
+- **Triceps pushdown last:** the triceps are small and work in every press, so they are saved for the end.
+- **Wrong orders:** starting with the triceps pushdown or lateral raises tires the small muscles before the big presses, so the heavy lifts suffer.
 - **V = Volume.** Volume is **sets x reps** (S x R). The reps are already settled: **stimulating reps (4 to 6 RM)**. The number of **sets** is one of the outcomes of Scheduling 2, when the "dish" is prepared. The ideal set range will be found then.
 
 **Summary:** all the "shopping" for the ingredients is done.

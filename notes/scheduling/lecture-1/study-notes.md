@@ -252,6 +252,7 @@ The slides add that cardio depends on age, training experience, health status, l
 ### 5.6 Finishing touches: S and V
 
 - **S = Sequence:** unsupported compound, then supported compound, then isolation, then unilateral.
+- **Largest muscle first** (it lifts the heaviest). Example, pec and delts push workout: **flat DB press, incline DB press, overhead press, lateral raise, triceps pushdown**. Flat first because it mainly works the sternocostal and abdominal heads (most of the muscle, so it lifts the heaviest); incline works the clavicular head, only about 25 percent of the pectoralis major. Small helper muscles (triceps) go last.
 - **V = Volume:** sets x reps (reps = 4 to 6 RM stimulating reps; sets are decided in Scheduling 2).
 
 ---

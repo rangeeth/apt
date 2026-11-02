@@ -4,7 +4,7 @@
 
 **Topic:** Scheduling, part 2 of 2 (analysing and designing a workout split)
 
-**About these notes:** Detailed notes from the Scheduling 2 lecture, written so the whole lecture can be studied without watching the recording. Every concept, example, analogy and class question is covered. For a short revision version see the Study Notes. The recording ended early because of a power cut, so the last topics (the PPL and bro split samples, and the final training-level column) are marked as pending and completed from the course slides.
+**About these notes:** Detailed notes from the Scheduling 2 lecture, written so the whole lecture can be studied without watching the recording. Every concept, example, analogy and class question is covered. For a short revision version see the Study Notes. The recording stopped early because of a power cut. The closing part was given at the start of the next lecture and is included here as Part 13 (the end of the upper/lower sample, sequence and volume, the set ranges in one table, and how to train a lagging muscle). Where something was not covered in the lecture, the notes say so and use the course slides.
 
 ---
 
@@ -51,7 +51,8 @@ Scheduling 2 puts together everything from earlier lectures: the objectives of s
 | 9 | Ideal set ranges |
 | 10 | The published studies behind the factors |
 | 11 | Sample programs (full body, upper/lower) |
-| 12 | Training level conclusion (from the slides) and points still pending |
+| 12 | Training level column (from the slides) |
+| 13 | The end of the lecture (given at the start of the next lecture): sequence in the lower day, set ranges in one table, training a lagging muscle |
 
 ![The master table of splits](diagrams/01-master-table.png)
 
@@ -437,14 +438,14 @@ What this sample shows:
 
 ## Samples not covered
 
-The lecture stopped (due to a power cut) before the samples for the PPL and bro split, and before the discussion of which split suits beginners, intermediates and advanced trainees. See Part 12.
+The lecture did not present sample programs for the PPL and the bro split. The closing part (Part 13) went back over the upper/lower sample instead. The upper/lower samples are the worked examples for this lecture, and the discussion of which split suits which level is in Part 12 (from the slides).
 
-# Part 12: Training level column and what was left pending
+# Part 12: Training level column
 
 The master table's training level column ("B" for beginner, "I/A" for intermediate and advanced) was meant to be filled in at the end as a conclusion.
 
 - **Beginner (B):** full body, because of the F and I relationship (low intensity, high frequency) and the need to learn technique. This is marked with a tick next to FBW on the board.
-- **Intermediate and advanced (I/A):** from the logic of the lecture, they can choose a split from **any** of the three scenarios, provided they stay inside the ideal set range for that scenario. That is the conclusion the lecture was heading towards, and the column was not formally completed in the recording.
+- **Intermediate and advanced (I/A):** from the logic of the lecture, they can choose a split from **any** of the three scenarios, provided they stay inside the ideal set range for that scenario. That is the conclusion of the lecture's logic. The lecture did not fill in the column formally, so the slide values below are the reference.
 
 ## What the course slides show (for the three levels)
 
@@ -455,6 +456,55 @@ The master table's training level column ("B" for beginner, "I/A" for intermedia
 | Advanced | 6 to 8 RM | Triple split (push, pull, lower body): Mon legs, Tue cardio, Wed pull, Thu abs + cardio, Fri push, Sat cardio, Sun rest | Also shown: a four-day split (Mon quadriceps and glutes; Tue calves, hamstrings, abs; Thu pull; Sat push, with cardio on Wed and Fri) and a six-day split for super advanced |
 
 The slides also show a **linear periodisation** table (week 1: 80% of 1 RM, 5 x 5; week 2: 87%, 4 x 4; week 3: 92%, 3 x 3; week 4: 70%, 3 x 10, a de-loading week; week 5: test a new 1 RM) and a **training and de-training diagram** (breakdown, then repair and supercompensation, then the training effect, then the de-training effect). The last slide is a case-study assignment: design programs for a 30-year-old client case study at four levels: beginner (full body), intermediate (double split), and two advanced programs.
+
+# Part 13: The end of the lecture (given at the start of the next lecture)
+
+The closing part of this lecture was given at the start of the next class, before a unit test, and is included here. This is the end of the Scheduling topic. It had four pieces: a last look at the upper/lower sample, a recap of sequence and volume, the ideal set ranges in one table, and four guidelines for training a lagging or weak muscle.
+
+## 13.1 The upper/lower sample, repeated twice a week
+
+- The upper/lower split is one pair of days that repeats. If **Monday is upper**, then **Thursday** repeats the same kind of upper day (and Tuesday and Friday are the lower days, as in Sample B). This is how each muscle is trained **twice a week**.
+- The sample is **only a reference**. A real program can be more comprehensive. Earlier lectures (such as the selection criteria of exercises) give the knowledge to **add variety and replace exercises** based on the **training goal** and the **training level** of the client.
+- The purpose of the sample is to give an overview of **how the sequence should be**.
+
+## 13.2 Sequence in the lower day: why calf raises come before leg curls
+
+Look at the order of the lower day in Sample B: calf raises (item 6), then leg curl (item 7), then toe raises (item 8).
+
+- **Why calf raises before leg curl.** The gastrocnemius is the calf muscle that has a second function: **knee flexion**. If the leg curl were done first, the gastrocnemius would already have worked as a **synergist** in the knee flexion. It could then not be expected to show its best performance in **ankle plantar flexion** (the calf raise) afterwards. So the ankle plantar flexion exercise comes **first**, and the leg curl comes after it. (This was discussed in the legs lecture.)
+- **Why toe raises last.** Toe raises (ankle dorsiflexion) are not affected by this order, so they can be done at the end.
+
+This is what **S (sequence)**, the finishing touch from Scheduling 1, means in practice: before fixing the order, check whether an earlier exercise uses a muscle as a helper and so tires it before its own turn.
+
+## 13.3 Sequence and volume: using everything together
+
+- Beyond the four pillars (FIT), the fifth principle is **S and V**: **S = sequence** and **V = volume**.
+- Whenever a workout plan is drafted for someone, use all the knowledge from Scheduling 1 and 2 together: keep the **scheduling** (frequency and the split) in mind, and keep **volume** in mind.
+- For volume, the **reps** are known: the **stimulating reps** are the target. The **sets** vary with the **frequency scenario** the client is given.
+
+## 13.4 The ideal set ranges in one table
+
+The ranges from Part 9, put together in one slide table:
+
+| Split | Sets (main sets to failure, per muscle) | Frequency (train again in this many hours or days) |
+|---|---|---|
+| Full body | **1 to 2** sets per muscle, max 3 sets | Every **48 hours** |
+| Upper-lower | **2 to 3** sets per muscle group, max 5 sets | Every **72 hours** |
+| Push-pull-legs or bro split | **6 to 8** sets per muscle, max 10 sets | **Once a week** |
+
+- **Full body** is thrice a week because it is trained every 48 hours. **Upper/lower** is twice a week. **Push-pull-legs or the bro split** is "the single body part once".
+- These ranges were written after understanding all the studies of this lecture. They **keep the volume in check** so that the client does not overtrain.
+
+## 13.5 How to train a lagging or weak muscle effectively
+
+A client may say, "I have a lagging muscle or a weak muscle." Keep in mind this **four point guideline**:
+
+![How to train a lagging or weak muscle: four guidelines](diagrams/08-lagging-muscle.png)
+
+1. **Train the muscle more frequently: three times a week.** Whichever split is made, that muscle must get trained quite frequently. It cannot be ignored. Just **2 to 3 sets per session** is enough to increase the frequency without overtraining.
+2. **Train it early in the workout.** Do not keep it for the end of the session. This does not mean it must be the very first exercise. If there are 12 exercises, keep it in the **top 3 rather than the last 3** (the slide's example: with 10 exercises, put it in the first few). **Why:** when the muscle is trained, the whole musculoskeletal system, the **CNS**, the cardiorespiratory system and many hard and soft tissues are working. They should all be **fresh**, not tired, when the focus is on the weak muscle.
+3. **Include at least one isolation exercise** for that muscle. If two exercises are done for it, make sure one of them isolates it well. **Example:** if the chest is the weak area, add a **pec deck fly**. **Why:** with isolation, the CNS dedicates all of its **motor unit recruitment** to that one muscle working in isolation.
+4. **Train the muscle unilaterally.** Instead of using both sides at once, as in a standard pec deck fly, use **one arm at a time**. **Why (the unilateral advantage):** the brain (CNS) can focus on that one side, which leads to **better muscle fibre recruitment** and **symmetrical development** if a muscle imbalance was making the muscle weak.
 
 ---
 
@@ -472,11 +522,15 @@ These are places where the recording was unclear, inconsistent, or differs from 
 8. **The currency analogy.** The units are arbitrary (AU). Only the idea of diminishing returns matters. Do not treat rupees as a real measurement.
 9. **Sample A, Friday and next Monday.** The set numbers are shown only for Monday and Wednesday; the other two columns are taken to be the same.
 10. **E-book samples.** The E-book (Chapter 16) has older sample programs and rep ranges that differ from this lecture. The lecture's version is used here.
-11. **The lecture ended early.** The PPL and bro split samples and the final B/I/A conclusion were not delivered in the recording. The level column in Part 12 is completed from the slides and the lecture's logic. Check it with your course team.
+11. **No PPL or bro split samples.** The lecture did not present these samples or formally fill in the final B/I/A column, and the topic ends with Part 13. The level column in Part 12 comes from the slides and the lecture's logic. Check it with your course team.
+12. **Wording in Part 13.** The recording of the next lecture has some unclear words. "Calf raises" and "toe raises" are read from context (the lower day of Sample B lists them), and "overtraining" is read for a word heard as "overhead" in the sentence about keeping volume in check.
+13. **"Sets to failure".** The set range slide in Part 13.4 says sets "to failure", while the slides for beginners say "no failure" and the lecture uses stimulating reps (4 to 6 RM). The notes keep each source's wording; check how "failure" applies at each level.
 
 ---
 
 # Board Photos from the Lecture
+
+*These are from the board during the lecture. The slides shown at the start of the next lecture are written out as text and a diagram in Part 13.*
 
 ![Stimulus per set: law of diminishing returns](board/board-1-stimulus-per-set.jpg)
 
@@ -487,3 +541,4 @@ These are places where the recording was unclear, inconsistent, or differs from 
 ![Hypertrophy and atrophy cycles over two weeks](board/board-4-hypertrophy-atrophy-cycles.jpg)
 
 ![The master table of splits](board/board-5-split-master-table.jpg)
+

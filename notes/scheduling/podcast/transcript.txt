@@ -435,7 +435,21 @@ Maya: Weight training. Compound versus isolation, multiple joints versus one. Su
 
 Dev: And S and V?
 
-Maya: The finishing touches, like interior decoration. S is sequence. Unsupported compound, supported compound, isolation, then unilateral. V is volume, sets times reps. Reps are four to six R M. Sets come next lecture. The slides add guidelines. Stretching six times a week, cardio three to five, weight training three to four. Cardio twenty to sixty minutes, weight training twenty to ninety.
+Maya: The finishing touches, like interior decoration. S is sequence. Unsupported compound, supported compound, isolation, then unilateral. And when exercises are of the same type, the largest muscle goes first, because it can lift the heaviest.
+
+Dev: Can you give an example?
+
+Maya: A pectoral and delts pushing workout. Flat bench dumbbell press, incline dumbbell press, overhead press, lateral raise, triceps pushdown.
+
+Dev: Why flat before incline?
+
+Maya: The flat press mainly works the sternocostal head and the abdominal head, which are most of the pectoralis major, so it lifts the heaviest. The incline press focuses on the clavicular head, only about twenty five percent of the muscle, so it comes second.
+
+Dev: And why are the lateral raise and triceps pushdown at the end?
+
+Maya: They are isolation lifts for small muscles. The triceps also help in every press, so they are saved for last. Starting with them would tire the small muscles before the big presses.
+
+Maya: V is volume, sets times reps. Reps are four to six R M. Sets come next lecture. The slides add guidelines. Stretching six times a week, cardio three to five, weight training three to four. Cardio twenty to sixty minutes, weight training twenty to ninety.
 
 
 --- Closing recap for part three ---
@@ -448,7 +462,7 @@ Maya: Three, the seven fundamentals. Specificity, adaptation, overload, progress
 
 Dev: Four, the four pillars. Frequency, intensity, time, type, read in layers, including synergists. And the H I I T session lasts thirteen minutes forty five seconds.
 
-Maya: Five, sequence and volume are the finishing touches. Now we are ready to cook in the next lecture.
+Maya: Five, sequence and volume are the finishing touches, and in the sequence the largest muscle goes first. Now we are ready to cook in the next lecture.
 
 ============================================================
 Part 4 - Workout Splits and the Master Table
@@ -548,7 +562,7 @@ Maya: Yes. And because beginners were taught this way, the industry created a st
 
 --- Training level, and what comes next ---
 
-Maya: Now the sixth column, training level. The lecture ended early. The remainder will be covered in the next lecture, so the final split selection conclusion is still to come. The final level column was not formally completed.
+Maya: Now the sixth column, training level. The lecture did not fill this column in formally.
 
 Dev: So what do we know meanwhile?
 
@@ -797,6 +811,35 @@ Dev: What does a dedicated upper day give?
 Maya: Room. You can train all heads of the pectoralis major on one day, flat for the sternocostal and abdominal heads, incline for the clavicular, and add isolation. The deltoid gets shoulder press, high row and lateral raise, one plus one plus two, so four sets. Biceps and triceps also work in rows, presses and pulldowns. The lower day has room for the tibialis anterior with toe raises.
 
 
+--- The end of the lecture: lower day, set ranges, lagging muscle ---
+
+Maya: The recording stopped at a power cut, but the last part was given at the start of the next class. Four pieces. First, the upper lower sample. If Monday is upper, Thursday repeats an upper day, and Tuesday and Friday are lower days. So each muscle is trained twice a week.
+
+Dev: And the sample is only a reference, right?
+
+Maya: Right. A real programme can be more comprehensive. Use the selection criteria from earlier lectures to add variety and replace exercises, based on the goal and the level of the client. The sample shows how the sequence should be.
+
+Dev: Piece two. Why do calf raises come before leg curls on the lower day?
+
+Maya: The gastrocnemius, the calf muscle, also bends the knee. If you do the leg curl first, it has already worked as a synergist in knee flexion. Then it cannot give its best in ankle plantar flexion, the calf raise. So the calf raise comes first, then the leg curl. Toe raises, which are ankle dorsiflexion, are not affected, so they go last.
+
+Dev: That is the S in S and V. Sequence and volume.
+
+Maya: Yes. Beyond the four pillars, the fifth principle is sequence and volume. When you draft a plan, keep scheduling and volume in mind together. The reps are known, the stimulating reps. The sets vary with the frequency scenario.
+
+Dev: Piece three, the set ranges in one table.
+
+Maya: Full body, one to two sets per muscle, maximum three, train again every forty eight hours. Upper lower, two to three sets per muscle group, maximum five, every seventy two hours. Push pull legs or the bro split, six to eight sets per muscle, maximum ten, once a week. These ranges keep the volume in check, so the client does not overtrain.
+
+Dev: Piece four. A client says, I have a lagging muscle.
+
+Maya: Four guidelines. One, train it more often, three times a week, with just two to three sets per session, so you raise frequency without overtraining. Two, train it early in the workout. With twelve exercises, keep it in the top three, not the last three. The nervous system and the tissues are fresh. Three, include at least one isolation exercise. If the chest is weak, add a pec deck fly, so the nervous system puts all its motor unit recruitment into that one muscle. Four, train it unilaterally, one side at a time. The brain can focus on one side, which gives better fibre recruitment and symmetrical development.
+
+Dev: More often, early, isolate, one side at a time.
+
+Maya: Exactly.
+
+
 --- Closing recap and rapid fire quiz ---
 
 Maya: Five things to remember. One, hypertrophy lasts forty eight hours after training, then atrophy starts, so retrain before the ball hits the ground.
@@ -856,6 +899,18 @@ Dev: Four point one seven, three point two two, and two point zero zero.
 Maya: Question twelve. How long does MyoPS stay raised, and what follows?
 
 Dev: About forty eight hours, then atrophy begins.
+
+Maya: Question thirteen. What is the best order for a pectoral and delts pushing workout?
+
+Dev: Flat bench dumbbell press, incline dumbbell press, overhead press, lateral raise, then triceps pushdown. The largest muscle goes first, because it lifts the heaviest. Flat works mainly the sternocostal and abdominal heads. Incline works the clavicular head, about twenty five percent of the muscle.
+
+Maya: Question fourteen. Why do calf raises come before leg curls?
+
+Dev: The gastrocnemius also flexes the knee. Doing the leg curl first tires it as a synergist, so it could not perform in the calf raise.
+
+Maya: Question fifteen. Four guidelines for a lagging muscle?
+
+Dev: Train it three times a week, early in the workout, with an isolation exercise, and unilaterally.
 
 Maya: That is a wrap. Well done for listening all the way through. Review your notes, check the differences with your course material, and good luck.
 

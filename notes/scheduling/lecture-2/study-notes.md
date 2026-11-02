@@ -117,6 +117,8 @@
 - Do 1 or 2 warm-up sets before the main sets.
 - Count **synergists**: biceps work in rows and pulldowns, triceps work in presses. Frequency counts every exercise where the muscle works.
 - A dedicated upper day gives room to hit all heads of the pectoralis major (flat for sternocostal and abdominal, incline for clavicular) and to add isolation.
+- **Upper/lower repeats:** if Monday is upper, Thursday repeats it, so each muscle is trained twice a week. The sample is a reference: add variety or replace exercises using the goal and training level.
+- **Sequence in the lower day:** **calf raises before leg curl**, because the gastrocnemius also flexes the knee. Doing leg curl first would use it as a synergist and tire it before the calf raise. Toe raises are not affected, so they come last.
 
 | Sample | Structure |
 |---|---|
@@ -133,7 +135,30 @@
 
 The slides also show linear periodisation (80% 5x5, 87% 4x4, 92% 3x3, 70% 3x10 de-load, then a new 1 RM).
 
-## 10. Key terms
+## 10. The end of the lecture: set ranges and the lagging muscle
+
+The last part was covered at the start of the next lecture.
+
+- **S and V together:** when drafting a workout plan, use Scheduling 1 and 2 together. Reps = stimulating reps; sets depend on the frequency scenario.
+
+| Split | Sets (per muscle) | Train again |
+|---|---|---|
+| Full body | 1 to 2, max 3 | every 48 hours |
+| Upper-lower | 2 to 3, max 5 | every 72 hours |
+| Push-pull-legs or bro | 6 to 8, max 10 | once a week |
+
+The ranges keep volume in check to avoid overtraining.
+
+**How to train a lagging or weak muscle effectively (four points):**
+
+1. **Train it 3 times a week** (2 to 3 sets per session is enough, without overtraining).
+2. **Train it early in the workout** (top 3 of 12 exercises, not the last 3), while the musculoskeletal system, CNS and cardiorespiratory system are fresh. It need not be the very first.
+3. **Include at least one isolation exercise** (for example pec deck fly for the chest), so the CNS dedicates motor unit recruitment to that muscle.
+4. **Train it unilaterally** (one side at a time). The brain focuses on one side: better recruitment and symmetry if an imbalance made it weak.
+
+![How to train a lagging or weak muscle: four guidelines](diagrams/08-lagging-muscle.png)
+
+## 11. Key terms
 
 | Term | Meaning |
 |---|---|
@@ -148,16 +173,16 @@ The slides also show linear periodisation (80% 5x5, 87% 4x4, 92% 3x3, 70% 3x10 d
 | GAS | General adaptation syndrome |
 | Net weekly stimulus | Sum of the stimulus from each session in a week |
 
-## 11. Where the sources differ
+## 12. Where the sources differ
 
 1. **Reps.** The lecture mentions 4 to 6 RM stimulating reps; the slides give 10 to 15 RM (intermediate) and 6 to 8 RM (advanced).
 2. **PPL.** The board shows PPL once a week (matching the slides' triple split). A six-day PPL trains each muscle twice, which by the lecture's rule would be the twice a week category (inference, not stated in the lecture).
 3. **Sum of sets 2 to 6.** Said as "roughly 1.02"; the exact sum is 1.00.
 4. **Study names and days.** Some were unclear in the recording; those in the detailed notes are read from the charts and are approximate.
-5. **Lecture ended early.** The PPL and bro samples and the final level column were not delivered; the level table above comes from the slides.
-6. **E-book samples** differ from the lecture's samples and rep ranges. Check with your course team.
+5. **No PPL or bro samples.** The lecture did not present these samples or formally fill in the final level column (the closing part is section 10). The level table above comes from the slides.
+6. **"Sets to failure"** on the set range slide versus "no failure" for beginners and stimulating reps (4 to 6 RM) in the lecture. Check how failure applies at each level.
 
-## 12. Quick revision questions
+## 13. Quick revision questions
 
 1. What does "No. of sets" mean in the master table?
 2. Give the recovery period and training frequency for 1 to 3 sets, 4 to 5 sets, and more than 5 sets.
@@ -179,8 +204,10 @@ The slides also show linear periodisation (80% 5x5, 87% 4x4, 92% 3x3, 70% 3x10 d
 18. What are GAS and MyoPS, and how long does MyoPS stay raised?
 19. What is the "blessing in disguise" of the full body workout in terms of atrophy?
 20. Give the ideal set range and upper limit for each frequency.
+21. Why do calf raises come before leg curl in the lower day?
+22. Give the four guidelines for training a lagging or weak muscle, with the reason for each.
 
-## 13. Answers
+## 14. Answers
 
 1. Main sets per muscle per session (not warm-up sets, not all exercises together).
 2. 1 to 3 sets: 48 h, thrice a week. 4 to 5: 72 h, twice. More than 5: 1 week, once.
@@ -202,6 +229,8 @@ The slides also show linear periodisation (80% 5x5, 87% 4x4, 92% 3x3, 70% 3x10 d
 18. General adaptation syndrome and myofibrillar protein synthesis; about 48 hours.
 19. The day atrophy would begin is the day of the next session, so almost none occurs.
 20. 3x a week: 1 to 2 (max 3). 2x: 2 to 3 (max 5). 1x: 6 to 8 (not above 10).
+21. The gastrocnemius also flexes the knee. If leg curl came first, it would already have worked as a synergist and could not give its best in ankle plantar flexion (calf raise). Toe raises are not affected, so they go last.
+22. Train it 3 times a week (2 to 3 sets per session); train it early (top 3 of 12) while the body and CNS are fresh; include an isolation exercise so the CNS dedicates motor unit recruitment to it; train it unilaterally so the brain focuses on one side, giving better recruitment and symmetry.
 
 ---
 
@@ -216,3 +245,4 @@ The slides also show linear periodisation (80% 5x5, 87% 4x4, 92% 3x3, 70% 3x10 d
 ![Hypertrophy and atrophy cycles](board/board-4-hypertrophy-atrophy-cycles.jpg)
 
 ![Master table](board/board-5-split-master-table.jpg)
+

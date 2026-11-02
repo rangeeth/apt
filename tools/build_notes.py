@@ -48,8 +48,7 @@ TOPICS = [
              dict(slug='lecture-1', src='42 - Scheduling 1', prefix='Scheduling 1', title='Scheduling 1',
                   desc='What scheduling is, objectives, macro and micro programming, fundamentals, the four pillars (FIT).'),
              dict(slug='lecture-2', src='43 - Scheduling 2', prefix='Scheduling 2', title='Scheduling 2',
-                  desc='The master table, workout splits, stimulus per set and retention, hypertrophy and atrophy, ideal set ranges, sample programs.',
-                  pending='The recording of this lecture ended early (power cut). The last topics (the PPL and bro split samples and the closing summary) are marked as pending in the notes and will be completed after the next lecture.'),
+                  desc='The master table, workout splits, stimulus per set and retention, hypertrophy and atrophy, ideal set ranges, sample programs.'),
          ]),
 ]
 
@@ -284,7 +283,7 @@ def build_podcast_page(topic):
     pending = ''
     for lec in topic['lectures']:
         if lec.get('pending'):
-            pending = '<div class="note warn" role="note"><strong>Incomplete:</strong> the Scheduling 2 lecture ended early, so this podcast covers it as recorded. It will be extended when the rest is added.</div>'
+            pending = '<div class="note warn" role="note"><strong>Incomplete:</strong> the Scheduling 2 lecture ended early. This podcast includes the part given at the start of the next lecture, but the PPL and bro split samples are still pending.</div>'
     for part in pod['parts']:
         ch = part['chapters']
         for ci, c in enumerate(ch):
