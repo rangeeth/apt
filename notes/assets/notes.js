@@ -123,3 +123,17 @@ if(zs.length){
   document.addEventListener('keydown',function(e){if(e.key==='Escape'&&lb.classList.contains('on'))close()});
 }
 })();
+
+/* jump to top / bottom buttons */
+(function(){
+  var w=document.createElement('div');w.className='jump';w.setAttribute('role','group');w.setAttribute('aria-label','Jump on this page');
+  w.innerHTML='<button type="button" class="jb" data-j="top" aria-label="Jump to top of page" title="Top (Home)">&#8593;</button>'+
+              '<button type="button" class="jb" data-j="bot" aria-label="Jump to bottom of page" title="Bottom (End)">&#8595;</button>';
+  document.body.appendChild(w);
+  function go(top){window.scrollTo({top:top?0:document.documentElement.scrollHeight,behavior:'smooth'})}
+  w.addEventListener('click',function(e){var b=e.target.closest('.jb');if(b)go(b.dataset.j==='top')});
+  function upd(){var y=window.scrollY,max=document.documentElement.scrollHeight-window.innerHeight;
+    w.querySelector('[data-j=top]').hidden=y<200;w.querySelector('[data-j=bot]').hidden=max<400||y>max-200}
+  var t=false;window.addEventListener('scroll',function(){if(!t){t=true;requestAnimationFrame(function(){t=false;upd()})}},{passive:true});
+  window.addEventListener('resize',upd);upd();
+})();
