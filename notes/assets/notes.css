@@ -193,3 +193,7 @@ select{font:inherit;font-size:14px;padding:4px 8px;border:1px solid var(--line);
 .jb[hidden]{display:none}
 @media print{.jump{display:none}}
 @media (max-width:980px){.jump{bottom:74px}}
+
+/* phone: header slides away on scroll down */
+.top{transition:transform .2s ease}
+@media (max-width:700px){.top.hide{transform:translateY(-100%)}}

@@ -105,6 +105,8 @@ def strip_tags(s):
 def fmt_min(sec):
     return '%d min' % round(sec / 60)
 
+ASSET_V = '3'   # bump when notes.css / notes.js change so browsers do not keep old copies
+
 THEME_INIT = ("<script>(function(){try{var t=localStorage.getItem('theme');"
               "if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}})()</script>")
 
@@ -119,7 +121,7 @@ def page(title, body, depth, crumbs, extra_head='', extra_body='', body_class=''
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title>
 {THEME_INIT}
-<link rel="stylesheet" href="{up}assets/notes.css">
+<link rel="stylesheet" href="{up}assets/notes.css?v={ASSET_V}">
 {extra_head}
 </head><body class="{body_class}">
 <header class="top"><div class="topin">
@@ -129,7 +131,7 @@ def page(title, body, depth, crumbs, extra_head='', extra_body='', body_class=''
 </div></header>
 {body}
 <footer class="foot">Study material prepared for revision. Verify against the official course material.</footer>
-<script src="{up}assets/notes.js"></script>
+<script src="{up}assets/notes.js?v={ASSET_V}"></script>
 {extra_body}
 </body></html>
 '''

@@ -137,3 +137,15 @@ if(zs.length){
   var t=false;window.addEventListener('scroll',function(){if(!t){t=true;requestAnimationFrame(function(){t=false;upd()})}},{passive:true});
   window.addEventListener('resize',upd);upd();
 })();
+
+/* phone: hide the header while scrolling down, show it again when scrolling up */
+(function(){
+  var top=document.querySelector('.top');if(!top||!window.matchMedia)return;
+  var mq=window.matchMedia('(max-width:700px)'),last=window.scrollY,t=false;
+  function run(){t=false;var y=window.scrollY;
+    if(!mq.matches||y<80||document.activeElement&&document.activeElement.id==='q'){top.classList.remove('hide')}
+    else if(y>last+6)top.classList.add('hide');
+    else if(y<last-6)top.classList.remove('hide');
+    last=y}
+  window.addEventListener('scroll',function(){if(!t){t=true;requestAnimationFrame(run)}},{passive:true});
+})();
