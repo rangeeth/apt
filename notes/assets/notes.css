@@ -202,3 +202,11 @@ select{font:inherit;font-size:14px;padding:4px 8px;border:1px solid var(--line);
 .crumbs{flex:1 1 0;min-width:0}
 .themebtn{margin-left:auto}
 @media (min-width:761px){.crumbs{flex-wrap:nowrap;overflow:hidden;white-space:nowrap}.crumbs a,.crumbs .sep{flex:0 0 auto}.crumbs .cur{min-width:0;overflow:hidden;text-overflow:ellipsis}}
+
+/* phone contents drawer: tap outside or the Close button to return to the page */
+.sidebd{display:none}
+@media (max-width:980px){
+ .sidebd.on{display:block;position:fixed;inset:0;z-index:58;background:rgba(0,0,0,.45)}
+ body.sideopen .tocbtn{z-index:70;left:16px;right:auto;bottom:16px}
+ body.sideopen .jump{display:none}
+}
