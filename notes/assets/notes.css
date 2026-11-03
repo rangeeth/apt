@@ -210,3 +210,4 @@ select{font:inherit;font-size:14px;padding:4px 8px;border:1px solid var(--line);
  body.sideopen .tocbtn{z-index:70;left:16px;right:auto;bottom:16px}
  body.sideopen .jump{display:none}
 }
+@media (max-width:980px){.side{padding-bottom:84px;overflow-y:auto}}

@@ -105,7 +105,7 @@ def strip_tags(s):
 def fmt_min(sec):
     return '%d min' % round(sec / 60)
 
-ASSET_V = '5'   # bump when notes.css / notes.js change so browsers do not keep old copies
+ASSET_V = '6'   # bump when notes.css / notes.js change so browsers do not keep old copies
 
 THEME_INIT = ("<script>(function(){try{var t=localStorage.getItem('theme');"
               "if(t==='light'||t==='dark')document.documentElement.dataset.theme=t}catch(e){}})()</script>")
