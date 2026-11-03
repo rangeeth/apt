@@ -50,6 +50,13 @@ TOPICS = [
              dict(slug='lecture-2', src='43 - Scheduling 2', prefix='Scheduling 2', title='Scheduling 2',
                   desc='The master table, workout splits, stimulus per set and retention, hypertrophy and atrophy, ideal set ranges, sample programs.'),
          ]),
+    dict(slug='motivation-health-safety', title='Motivation, Adherence, Health & Safety', podcast_dir='Motivation Adherence Health and Safety',
+         blurb='Motivation and adherence, intrinsic and extrinsic motivation, client goals, behaviour change models, complaints and communication, then hazards, emergencies, screening and the code of conduct.',
+         lectures=[
+             dict(slug='lecture-1', src='44 - Motivation, Adherence, Health & Safety in Gym Environment', prefix='Motivation Adherence Health and Safety',
+                  title='Motivation, Adherence, Health & Safety in Gym Environment',
+                  desc='Motivation versus adherence, intrinsic and extrinsic motivation, the TTM and Social Learning Theory, complaints, communication, gym hazards, emergencies and the code of conduct.'),
+         ]),
 ]
 
 # Every lecture in the order of the course. (title, topic slug, lecture slug) once its notes exist.
@@ -68,7 +75,7 @@ COURSE = [
     ('Fitness Testing 1', 'fitness-testing', 'lecture-1'), ('Fitness Testing 2', 'fitness-testing', 'lecture-2'),
     ('Scheduling 1', 'scheduling', 'lecture-1'), ('Scheduling 2', 'scheduling', 'lecture-2'),
     ('Unit Test 3',), ('Understanding Special Population & Professional Boundaries',),
-    ('Motivation, Adherence, Health & Safety in Gym Environment',), ('Understanding Assessment Criteria',),
+    ('Motivation, Adherence, Health & Safety in Gym Environment', 'motivation-health-safety', 'lecture-1'), ('Understanding Assessment Criteria',),
     ("Principal's Address",), ('Others',),
 ]
 
@@ -206,7 +213,7 @@ def tabs(depth_up, active, lec, topic):
     return ('<nav class="tabs" aria-label="This lecture">' +
             tab('d', 'Detailed notes', d + '.html') + tab('s', 'Study notes', s + '.html') +
             '<a class="tab dl" href="%s.md">Markdown</a>' % (d if active == 'd' else s) +
-            '<a class="tab pod" href="../podcast/index.html">Podcast</a></nav>')
+            ('<a class="tab pod" href="../podcast/index.html">Podcast</a>' if load_podcast(topic) else '') + '</nav>')
 
 def build_lecture_pages(topic, lec):
     base = os.path.join(NOTES, topic['slug'], lec['slug'])
@@ -221,12 +228,13 @@ def build_lecture_pages(topic, lec):
             pending = '<div class="note warn" role="note"><strong>Incomplete:</strong> %s</div>' % e(lec['pending'])
         other = 'study-notes.html' if key == 'd' else 'detailed-notes.html'
         otherlabel = 'Study notes (short revision version)' if key == 'd' else 'Detailed notes (full explanations)'
+        podlink = '<a href="../podcast/index.html">Listen: %s podcast</a>' % e(topic['title']) if load_podcast(topic) else ''
         content = f'''
 <div class="layout">
 <aside class="side" id="side" aria-label="Contents"><div class="sidein">
 <div class="sidehd">Contents</div>
 {toc}
-<div class="sidelinks"><a href="{other}">{otherlabel}</a><a href="../podcast/index.html">Listen: {e(topic['title'])} podcast</a></div>
+<div class="sidelinks"><a href="{other}">{otherlabel}</a>{podlink}</div>
 </div></aside>
 <main class="doc" id="doc">
 <div class="dochead"><div class="eyebrow">{e(topic['title'])} &middot; {e(lec['title'])}</div>
