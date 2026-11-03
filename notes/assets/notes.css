@@ -197,3 +197,8 @@ select{font:inherit;font-size:14px;padding:4px 8px;border:1px solid var(--line);
 /* phone: header slides away on scroll down */
 .top{transition:transform .2s ease}
 @media (max-width:700px){.top.hide{transform:translateY(-100%)}}
+
+/* header: long lecture titles must not push the theme button onto its own row or to the left */
+.crumbs{flex:1 1 0;min-width:0}
+.themebtn{margin-left:auto}
+@media (min-width:761px){.crumbs{flex-wrap:nowrap;overflow:hidden;white-space:nowrap}.crumbs a,.crumbs .sep{flex:0 0 auto}.crumbs .cur{min-width:0;overflow:hidden;text-overflow:ellipsis}}
