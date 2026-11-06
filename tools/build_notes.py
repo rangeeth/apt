@@ -57,6 +57,14 @@ TOPICS = [
                   title='Motivation, Adherence, Health & Safety in Gym Environment',
                   desc='Motivation versus adherence, intrinsic and extrinsic motivation, the TTM and Social Learning Theory, complaints, communication, gym hazards, emergencies and the code of conduct.'),
          ]),
+    dict(slug='stretching', title='Stretching', podcast_dir='Stretching',
+         blurb='Flexibility and mobility, the stretch mechanism and stretch reflex, dynamic and static stretching, mobility drills with figures, SAS and SPS, isometric and PNF stretch, and fascia line stretches.',
+         lectures=[
+             dict(slug='lecture-1', src='22 - Stretching 1', prefix='Stretching 1', title='Stretching 1',
+                  desc='Flexibility and mobility, benefits, factors affecting mobility, the stretch mechanism, the stretch reflex in lifting and deloading in the deadlift.'),
+             dict(slug='lecture-2', src='23 - Stretching 2', prefix='Stretching 2', title='Stretching 2',
+                  desc='Dynamic and static stretching, ten mobility drills, SAS and SPS, isometric and PNF stretch, fascia line stretches and safety guidelines, with exercise figures.'),
+         ]),
 ]
 
 # Every lecture in the order of the course. (title, topic slug, lecture slug) once its notes exist.
@@ -67,7 +75,7 @@ COURSE = [
     ('Basic Nutrition',), ('Body Composition 1',), ('Body Composition 2',), ('Body Composition 3',),
     ('Supplementation',), ('Intro to Workload',), ('Intro to Intensity',), ('Training Techniques',),
     ('Resistance Profile',), ('Classification of Exercises and Tools',),
-    ('Intro to K11 Selection Criteria of Exercises',), ('Stretching 1',), ('Stretching 2',), ('Unit Test 1',),
+    ('Intro to K11 Selection Criteria of Exercises',), ('Stretching 1','stretching','lecture-1'), ('Stretching 2','stretching','lecture-2'), ('Unit Test 1',),
     ('Back Lecture',), ('Back Demo',), ('Legs Lecture',), ('Legs Demo 1',), ('Legs Demo 2',),
     ('Chest Shoulder Lecture',), ('Chest Shoulder Demo',), ('Abs Lecture',), ('Abs Demo',),
     ('Arms & Arms Demo',), ('Unit Test 2',),
