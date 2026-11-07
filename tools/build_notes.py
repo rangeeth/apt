@@ -65,6 +65,14 @@ TOPICS = [
              dict(slug='lecture-2', src='23 - Stretching 2', prefix='Stretching 2', title='Stretching 2',
                   desc='Dynamic and static stretching, ten mobility drills, SAS and SPS, isometric and PNF stretch, fascia line stretches and safety guidelines, with exercise figures.'),
          ]),
+    dict(slug='back', title='Back', podcast_dir='Back',
+         blurb='The back muscles (trapezius, levator scapulae, rhomboids, erector spinae group, multifidus, latissimus dorsi, teres major), their functions, and every back exercise with figures showing how to perform it.',
+         lectures=[
+             dict(slug='lecture-1', src='25 - Back Lecture', prefix='Back Lecture', title='Back Lecture',
+                  desc='Why train the back, the trapezius, levator scapulae, rhomboids, erector spinae group and multifidus, muscle function, spine curves and segments.'),
+             dict(slug='lecture-2', src='26 - Back Demo', prefix='Back Demo', title='Back Demo',
+                  desc='Latissimus dorsi and teres major, the pullover, grips, barbell, belt and hip hinge, and every back exercise: rows, pulldowns, chin-up, pull-up, shrugs, prone high row, prone and reverse shrugs, good morning, back extensions, superman and the deadlift, with exercise figures.'),
+         ]),
 ]
 
 # Every lecture in the order of the course. (title, topic slug, lecture slug) once its notes exist.
@@ -76,7 +84,7 @@ COURSE = [
     ('Supplementation',), ('Intro to Workload',), ('Intro to Intensity',), ('Training Techniques',),
     ('Resistance Profile',), ('Classification of Exercises and Tools',),
     ('Intro to K11 Selection Criteria of Exercises',), ('Stretching 1','stretching','lecture-1'), ('Stretching 2','stretching','lecture-2'), ('Unit Test 1',),
-    ('Back Lecture',), ('Back Demo',), ('Legs Lecture',), ('Legs Demo 1',), ('Legs Demo 2',),
+    ('Back Lecture','back','lecture-1'), ('Back Demo','back','lecture-2'), ('Legs Lecture',), ('Legs Demo 1',), ('Legs Demo 2',),
     ('Chest Shoulder Lecture',), ('Chest Shoulder Demo',), ('Abs Lecture',), ('Abs Demo',),
     ('Arms & Arms Demo',), ('Unit Test 2',),
     ('Cardio Regulations 1', 'cardio-regulations', 'lecture-1'), ('Cardio Regulations 2', 'cardio-regulations', 'lecture-2'),
@@ -428,7 +436,14 @@ def copy_sources(src):
                 for ext in ('md',):
                     f = os.path.join(s, '%s - %s.%s' % (lec['prefix'], kind, ext))
                     if os.path.exists(f):
-                        shutil.copy2(f, os.path.join(d, '%s.%s' % (long, ext)))
+                        dst = os.path.join(d, '%s.%s' % (long, ext))
+                        shutil.copy2(f, dst)
+                        # The site shows one demo section per body part (theory + demo), so
+                        # references to the separate "Demo Extra" session point to the Back Demo.
+                        txt = open(dst, encoding='utf8').read()
+                        fixed = txt.replace('Back Demo and Back Demo Extra notes', 'Back Demo notes').replace('Back Demo Extra', 'Back Demo')
+                        if fixed != txt:
+                            open(dst, 'w', encoding='utf8').write(fixed)
                     else:
                         print('MISSING', f)
             for sub in ('diagrams', 'board'):
