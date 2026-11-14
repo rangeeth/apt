@@ -73,6 +73,14 @@ TOPICS = [
              dict(slug='lecture-2', src='26 - Back Demo', prefix='Back Demo', title='Back Demo',
                   desc='Demo: bent over rows, one arm row, seated and supported rows, lat pulldown, chin-up, pull-up, straight arm pulldown, shrugs, prone high row, prone and reverse shrugs, good morning, back extensions, superman and the deadlift, with exercise figures.'),
          ]),
+    dict(slug='legs', title='Legs', podcast_dir='Legs',
+         blurb='The leg muscles (quadriceps, hamstrings, gluteal group, adductors, sartorius, calf muscles and tibialis anterior), their functions, and every leg exercise with figures showing how to perform it.',
+         lectures=[
+             dict(slug='lecture-1', src='28 - Legs Lecture', prefix='Legs Lecture', title='Legs Lecture',
+                  desc='Theory: why train the legs, joints and actions, the quadriceps, reciprocal inhibition and the leg extension, the hamstrings, gluteal group, adductors, sartorius and the lower leg.'),
+             dict(slug='lecture-2', src='29 - Legs Demo', prefix='Legs Demo', title='Legs Demo',
+                  desc='Demo: squats, lunges, step-ups, the leg press, stiff leg and Romanian deadlifts, hip isolation, leg extension, leg curls, calf and tibialis exercises, and abduction and adduction, with exercise figures.'),
+         ]),
 ]
 
 # Every lecture in the order of the course. (title, topic slug, lecture slug) once its notes exist.
@@ -84,7 +92,7 @@ COURSE = [
     ('Supplementation',), ('Intro to Workload',), ('Intro to Intensity',), ('Training Techniques',),
     ('Resistance Profile',), ('Classification of Exercises and Tools',),
     ('Intro to K11 Selection Criteria of Exercises',), ('Stretching 1','stretching','lecture-1'), ('Stretching 2','stretching','lecture-2'), ('Unit Test 1',),
-    ('Back Lecture','back','lecture-1'), ('Back Demo','back','lecture-2'), ('Legs Lecture',), ('Legs Demo 1',), ('Legs Demo 2',),
+    ('Back Lecture','back','lecture-1'), ('Back Demo','back','lecture-2'), ('Legs Lecture','legs','lecture-1'), ('Legs Demo','legs','lecture-2'),
     ('Chest Shoulder Lecture',), ('Chest Shoulder Demo',), ('Abs Lecture',), ('Abs Demo',),
     ('Arms & Arms Demo',), ('Unit Test 2',),
     ('Cardio Regulations 1', 'cardio-regulations', 'lecture-1'), ('Cardio Regulations 2', 'cardio-regulations', 'lecture-2'),
