@@ -2,9 +2,9 @@
 
 **Course:** Personal Training Certification
 
-**Topic:** The back as a body part: why train it, the seven back muscles (trapezius, levator scapulae, rhomboids, erector spinae group, multifidus, with latissimus dorsi and teres major introduced in the demo), muscle function, spine anatomy and curves, and exercise examples
+**Topic:** The back as a body part: why train it, the seven back muscles (trapezius, levator scapulae, rhomboids, erector spinae group, multifidus), muscle function, spine anatomy and curves, the latissimus dorsi and teres major (anatomy, functions, exercise categories), the pullover, and guidelines on grips, barbell, belt and hip hinge
 
-**About these notes:** Detailed notes from the Back Lecture, written so the whole lecture can be studied without watching the recording. Every concept, analogy and class question is covered. The figures are original drawings made for these notes. For a short revision version, see the Study Notes. The latissimus dorsi, teres major and the exercise demonstrations are in the Back Demo notes. Sources: the lecture recording, the course slides ("Body part 1: Back") and the board photos.
+**About these notes:** Detailed notes for the Back Lecture (the theory), written so the whole lecture can be studied without watching the recordings. Every concept, analogy and class question is covered. The theory parts that were taught in the first half of the demo session (latissimus dorsi and teres major, the pullover, grips and equipment) are included here, in Parts 14 to 20. The figures are original drawings made for these notes. For a short revision version, see the Study Notes. Every back exercise, with set-up, execution and figures, is in the Back Demo notes. Sources: the lecture and demo recordings, the course slides ("Body part 1: Back") and the board photos.
 
 ---
 
@@ -21,6 +21,10 @@
 | Prime mover | The muscle mainly responsible for a movement |
 | Synergist | A helper muscle that does the same job with the prime mover |
 | Stabiliser | A muscle that works to keep a body part steady |
+| Lats | Latissimus dorsi (always use the full name in class) |
+| CNS | Central nervous system |
+| NHG | Natural hang grip |
+| Valsalva | Breathing in and holding the breath to brace the trunk |
 
 ## Before this lecture
 
@@ -43,6 +47,13 @@ You should know the skeleton and the main joints, the directional terms (superfi
 | 11 | Multifidus |
 | 12 | Common functions of the erector spinae group and multifidus; spinal curves |
 | 13 | Segmentation of the erector spinae group |
+| 14 | Recap of the back muscles (class quiz) |
+| 15 | Names: latissimus dorsi and teres major |
+| 16 | Anatomy of the latissimus dorsi and teres major |
+| 17 | Functions of the latissimus dorsi and teres major (multiplanar) |
+| 18 | Exercise categories: shoulder extension and adduction, thickness and width |
+| 19 | The dumbbell pullover versus the straight arm pulldown and machine pullover |
+| 20 | Grips, barbell, lifting belt and hip hinge |
 
 ---
 
@@ -330,8 +341,214 @@ Each muscle is divided into segments by the region it passes through, because th
 - **Lumborum:** only iliocostalis lumborum, because the longissimus borrows its start from the iliocostalis there and the spinalis only touches the top of L1. The lumbar region carries the weight of the upper body, so a muscle must be fully present to contribute.
 
 ---
+## Part 14: Recap of the back muscles (class quiz)
 
-Key takeaways: the trapezius has three fibre sets, each with its own function and exercise (shrug, prone shrug and row, reverse shrug). The levator scapulae and rhomboids are deep helpers of the upper and middle fibres. The erector spinae group and the multifidus have three functions, and the most important is the isometric function of maintaining a neutral spine, trained with good mornings and back extensions.
+Q: Which fibres of the trapezius are the levator scapulae deep to?
+
+A: The upper fibres. The levator helps the upper fibres with shoulder girdle elevation.
+
+Q: Which muscle is deep to the lower trapezius?
+
+A: None. The rhomboids are deep to the **middle** fibres.
+
+Q: What is the main job of the middle fibres with the rhomboids?
+
+A: Scapular retraction.
+
+Q: What is the function of the lower trapezius?
+
+A: Scapular depression.
+
+Q: Name the three muscles of the erector spinae group, and one more muscle that does the same job.
+
+A: Spinalis, longissimus and iliocostalis. The multifidus does the same job.
+
+Q: What are the functions of these muscles?
+
+A: Spine extension and spine lateral flexion (the length changes), and maintaining the neutral spine (isometric).
+
+A short daily revision of about 20 minutes is recommended.
+
+---
+
+## Part 15: Names
+
+- **Latissimus dorsi:** "latissimus" comes from Greek for "wide" and "dorsi" means "back" (as in the dorsal surface of the hand). It is the widest muscle of the back, and in general the widest muscle of the body.
+- **Teres major:** "teres" means cylindrical (round), and "major" means bigger than the teres minor. The teres minor belongs to the shoulder body part, because its job resembles the shoulder muscles. The teres major is taken with the back because it shares the origin, insertion and functions of the latissimus dorsi.
+
+---
+
+## Part 16: Anatomy
+
+![Latissimus dorsi and teres major](diagrams/07-lats-teres-map.png)
+
+### 16.1 Landmarks recalled
+
+- The **inferior angle** is where the scapula's two borders meet.
+- The upper end of the humerus has a narrow lane called the groove. A **tubercle** is a bump (like a speed breaker). The bigger bump is the **greater tubercle** and the smaller is the **lesser tubercle**. The lane between them is the **intertubercular groove** ("inter" means between, as in international). Its other name is the **bicipital groove**.
+
+### 16.2 Latissimus dorsi
+
+| Item | Detail |
+|---|---|
+| Origin | Spinous processes from T7 down to the lumbar vertebrae, the sacrum and the coccyx, through the **thoracolumbar fascia** (the white fascia at the thoracic and lumbar region); the iliac crest; the last three ribs; the inferior angle of the scapula |
+| Insertion | The **front** of the humerus, in the intertubercular (bicipital) groove |
+| Path | The fibres converge and go **under** the arm, not over it, to reach the front of the humerus |
+
+**Horizontal and diagonal fibres.** There is no official classification like the upper, middle and lower trapezius, but this one helps to choose exercises:
+
+- **Horizontal (thoracic) fibres:** from T7 to T12, running roughly horizontally.
+- **Diagonal fibres:** from the lumbar region, sacrum, iliac crest and last three ribs.
+
+### 16.3 Teres major
+
+It arises at the inferior angle of the scapula, inserts in the same groove and has the same functions as the latissimus dorsi. It is smaller, so it produces less force.
+
+---
+
+## Part 17: Functions
+
+The functions were shown with elastic bands on a skeleton. When the arm moves so that the fibres are lengthened, the function is the return movement.
+
+![Three functions of the latissimus dorsi and teres major](diagrams/08-lats-three-functions.png)
+
+| Plane | Function | Fibres lengthened by |
+|---|---|---|
+| Sagittal | **Shoulder extension** | Arm raised in flexion |
+| Frontal (coronal) | **Shoulder adduction** | Arm abducted |
+| Transverse (horizontal) | **Shoulder internal rotation** | External rotation, because the insertion is at the front of the humerus |
+
+The latissimus dorsi is therefore a **multiplanar** muscle.
+
+**Training rule.** Internal rotation is the main job of a muscle in another body part. The latissimus dorsi does it on paper, but do **not** train the latissimus dorsi through internal rotation. Use shoulder extension, shoulder adduction, or both. With limited exercise slots, do extension in one session and adduction in the next.
+
+Q: Is the main function of the latissimus dorsi extension and adduction, and the teres major only an assistant?
+
+A: The teres major does the same job and produces less force because of its size. It is not simply a synergist. It depends on the exercise.
+
+---
+
+## Part 18: Exercise categories
+
+### 18.1 Compound and isolation
+
+Compound means several joints and joint actions, one of which is shoulder extension (or adduction). Isolation means one joint and only the target action.
+
+### 18.2 Shoulder extension
+
+| Type | Exercises | Detail |
+|---|---|---|
+| Compound | **Chin-up** (narrow grip) | The body goes up. Shoulder extension and elbow flexion. The latissimus dorsi is the prime mover and the biceps brachii a synergist. |
+| Compound | **Lat pulldown, close (narrow) grip** | The body is fixed and the bar comes to you |
+| Compound | Most rowing exercises | Bent over row, T-bar row, seated row, chest-supported row, one arm row |
+| Isolation | **Straight arm pulldown** | Stand at a high cable with a straight bar, lean slightly forward and keep the elbows straight. Pull the handle to the thighs. Only the shoulder moves. |
+
+Note that "pull-up" and "chin-up" are different. Narrow hands on a supinated grip make a chin-up. The word "most" is used for the rows because of one exception, covered in a later lecture.
+
+**Supported and unsupported rows.** The bent over row is unsupported. The seated row is supported at the pelvic girdle only. The chest-supported row machine is more supported, at the pelvic girdle **and** the spine.
+
+### 18.3 Shoulder adduction
+
+| Type | Exercises | Detail |
+|---|---|---|
+| Compound | **Pull-up** (wide grip), **lat pulldown, wide grip** | When the grip widens the elbows leave the sagittal plane and enter the frontal plane. The target muscle is the same, but the plane and action change. |
+| Isolation | A multi-gym machine with a rotatable lever | With the lever at the side and brought to the body, the action is pure shoulder adduction |
+
+The exercises on the extension list must be noted as narrow (close) grip and those on the adduction list as wide.
+
+### 18.4 Thickness and width
+
+Shoulder extension exercises use more of the horizontal fibres, and adduction exercises use more of the diagonal fibres. Growing the diagonal fibres gives a **wider** back, and growing the horizontal fibres gives a **thicker** back. Doing only one type neglects the other fibres.
+
+**Myth.** Holding the bar as wide as possible does not create a V-taper. The V shape comes from growth of the diagonal fibres. A claimed benefit needs scientific evidence.
+
+---
+
+## Part 19: The pullover
+
+![Pullover comparison](diagrams/18-pullover-compare.png)
+
+### 19.1 Why the dumbbell pullover is not recommended for the latissimus dorsi
+
+The lifter lies face up with one dumbbell held in both hands. Take three positions: **A** (dumbbell above the chest), **B** (mid range) and **C** (arm overhead).
+
+- From **A to B** the **chest** does the work (the pectoralis shares the same groove).
+- From **B to C** the **latissimus dorsi** works, but the weight travels **down** with gravity, so the lats do not get good resistance.
+- The lecture compared this to a relay race, where each runner covers a different part.
+
+The exercise is not good for the latissimus dorsi, and not the best for the chest either. Better chest options will come in the chest lecture.
+
+### 19.2 Resistance profile ranking for isolation
+
+Free weight (dumbbell, barbell, plates) is below cable, and cable is below the **cam-based machine** (the best).
+
+- **Straight arm pulldown (cable):** the latissimus dorsi enjoys the resistance over the range.
+- **Machine pullover (cam-based):** seated, supported at the pelvic girdle and spine, with elbow pads that keep the elbows pre-flexed. Only the shoulder moves (extension), so it is still isolation. The support and stability let the CNS focus on the prime mover, which helps hypertrophy. Machines can be stack-loaded, plate-loaded or fulcrum-based.
+
+**Conclusion:** both the straight arm pulldown and the machine pullover are much better than the dumbbell pullover.
+
+### 19.3 Class question on the pullover
+
+Q: Why is the dumbbell pullover not suggested for the latissimus dorsi? What is the "eccentric part"?
+
+A: A to B is driven by the chest and B to C by the latissimus dorsi. In B to C the muscle contracts, but the weight travels down. Hypertrophy is best with tension against gravity, and when the dumbbell goes against gravity the chest is more involved. In the straight arm pulldown the latissimus dorsi works over B to C with a good moment arm and resistance profile.
+
+---
+
+## Part 20: Grips, barbell, belt and hip hinge (guidelines for exercise videos)
+
+These guidelines are used later in the Back Demo, when the exercise videos are watched. **Set-up** is everything before the first rep (loading, getting into position). **Execution** starts with the first rep.
+
+### 20.1 Grips
+
+![Barbell, plates and grips](diagrams/26-barbell-plates-grips.png)
+
+| Grip | Meaning |
+|---|---|
+| Supinated | Palm up |
+| Pronated | Palm down |
+| Mixed (alternate hand, dead grip) | One palm up, one down. Used for deadlifts. |
+| Hammer, neutral, mid-prone | Palms facing each other |
+| Natural hang grip (NHG) | Arms hang at the sides with the palms facing the thighs. Only possible with two separate objects (dumbbells). Most wrist friendly, so a set ends from prime mover failure, not wrist discomfort. |
+| True grip | The thumb wraps round the bar |
+| False (thumbless, suicide) grip | The thumb is not wrapped. On the bench press the bar can roll and fall. |
+
+"Supine" and "prone" describe the body lying face up or face down. "Supination" and "pronation" are forearm actions at the radioulnar joint.
+
+**Which grip lifts the heaviest for rows?** The supinated grip, because the biceps brachii (the biggest elbow flexor) works best in it. In pronation or mid-prone grip other members of the elbow flexor group work (covered in the arms lecture). A self-test: tense the biceps with the palm facing you, then rotate to pronation and the muscle disengages.
+
+**Coaching point.** Some people have poor radioulnar or wrist mobility and find supination uncomfortable. Do not push them into it. Give them the most suitable grip, which may allow a heavier load.
+
+### 20.2 Barbell and accessories
+
+| Item | Meaning |
+|---|---|
+| Collar | Stops the plates sliding off the sleeve (the holder is called a fastener) |
+| Sleeve | The part where the plates mount |
+| Shaft | The long middle part |
+| Knurling | The rough pattern for grip against sweat (the k is silent: "nurling") |
+
+**Plate colour code:** 25 kg red, 20 kg blue, 15 kg yellow, 10 kg green, 5 kg black or grey. Divide by 10 and the colour stays the same (2.5 kg red, 2 kg blue, 1.5 kg yellow, 1 kg green). Olympic lifting uses fractional plates.
+
+- **Lifting straps:** wrapped round the bar and hand so a set ends when the prime mover fails, not the grip.
+- **Chalk:** magnesium carbonate, which absorbs sweat.
+- **Lifting shoes:** explained in the legs lecture.
+
+### 20.3 Lifting belt and Valsalva
+
+![Valsalva and the lifting belt](diagrams/27-belt-valsalva.png)
+
+It is a myth that a belt is for lumbar support. Breathing in and holding the breath (Valsalva) makes a pressurised "Swiss ball" in the abdominal and thoracic cavities in front of the spine, so there is no room for the spine to round. When a load is too heavy for Valsalva alone, a thick belt gives the expanded abdomen something to push against and raises the pressure further. The Valsalva must continue while wearing the belt.
+
+### 20.4 Hip hinge
+
+![Hip hinge versus leaning](diagrams/25-hip-hinge-vs-lean.png)
+
+There are two ways to bend over: lean the upper body forward, or hinge at the hips (push the hips back). The hip hinge is preferred, because the centre of gravity stays over the base of support, the weight is spread evenly, and there is no feeling of falling forward.
+
+---
+
+Key takeaways: the trapezius has three fibre sets, each with its own function and exercise (shrug, prone shrug and row, reverse shrug). The levator scapulae and rhomboids are deep helpers of the upper and middle fibres. The erector spinae group and the multifidus have three functions, and the most important is the isometric function of maintaining a neutral spine, trained with good mornings and back extensions. The latissimus dorsi and teres major extend, adduct and internally rotate the shoulder, but train them with extension (thickness) and adduction (width) only. The cable straight arm pulldown and the machine pullover beat the dumbbell pullover. The belt works with Valsalva to raise abdominal pressure, and the hip hinge keeps the centre of gravity over the base.
 
 ---
 
@@ -349,8 +566,11 @@ Key takeaways: the trapezius has three fibre sets, each with its own function an
 10. **"Para" means parallel.** This was a memory aid. In the word paraspinal, "para" strictly means beside.
 11. **Kite or diamond as a trapezoid.** A kite or a diamond is not strictly a trapezoid. The name is explained here as a shape trait.
 12. **Longissimus is the longest.** On the board sketch the iliocostalis looked longer. The sketch was not to scale.
-13. **Figures.** The figures are simplified drawings made for these notes, so the exact positions and sizes of muscles are approximate.
-14. **Slides.** The slides contain a schedule and the exercise tables for the latissimus dorsi. These were covered in the demo sessions and are in those notes.
+13. **Concentric in the pullover.** The class argued that the lats work "eccentrically" in B to C because the weight travels down. By the standard definition, a muscle shortening is concentric, so the real point is the resistance profile (where the load is greatest), not the contraction type.
+14. **Teres major as a synergist.** The answer was left open and depended on the exercise.
+15. **Band colours and the rotatable lever.** The recording was unclear for the band colours on the skeleton and for the name of the multi-gym machine.
+16. **Slides.** The slides contain a schedule and the exercise tables for the latissimus dorsi. The exercise tables are covered in Part 18. The schedule was not discussed in class.
+17. **Figures.** The figures are simplified drawings made for these notes, so the exact positions and sizes of muscles are approximate.
 
 ---
 
@@ -361,3 +581,9 @@ Key takeaways: the trapezius has three fibre sets, each with its own function an
 ![Trapezius: fibres, functions and exercise examples, levator scapulae and rhomboids](board/board-2-trapezius-functions-exercises.jpg)
 
 ![Erector spinae group, multifidus, common functions and segmentation](board/board-3-erector-spinae-segmentation.jpg)
+
+![Pullover positions A, B and C: chest and back](board/board-4-pullover-positions.jpg)
+
+![Barbell parts: sleeve, shaft, knurling, collar and fastener](board/board-5-barbell-parts.jpg)
+
+![Latissimus dorsi and teres major: functions and exercises](board/board-6-latissimus-dorsi-functions-exercises.jpg)

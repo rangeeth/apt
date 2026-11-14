@@ -2,9 +2,9 @@
 
 **Course:** Personal Training Certification
 
-**Topic:** Why train the back, the trapezius, levator scapulae, rhomboids, erector spinae group and multifidus: functions, exercises, spine curves
+**Topic:** Why train the back, the trapezius, levator scapulae, rhomboids, erector spinae group and multifidus (functions, exercises, spine curves), the latissimus dorsi and teres major, the pullover, grips, barbell, belt and hip hinge
 
-**About these notes:** Short revision version of the Back Lecture. For the full explanation of every concept, example and class question, see the Detailed Notes. The latissimus dorsi, teres major and the exercise demonstrations are in the Back Demo notes. The figures are original drawings. Sources: the lecture recording, the course slides and the board photos.
+**About these notes:** Short revision version of the Back Lecture. For the full explanation of every concept, example and class question, see the Detailed Notes. The latissimus dorsi, teres major, pullover, grips and equipment are included here, in sections 9 to 13. The exercise demonstrations are in the Back Demo notes. The figures are original drawings. Sources: the lecture recording, the course slides and the board photos.
 
 **Big idea:** For each muscle, learn the name, the function (the joint action when it contracts) and an exercise whose concentric phase is that function. The three fibre sets of the trapezius each need their own exercise, and the most important job of the erector spinae and multifidus is to hold the spine neutral (isometric).
 
@@ -98,9 +98,78 @@
 - Name = muscle + region: capitis, cervicis, thoracis, lumborum.
 - Only the iliocostalis reaches the lumbar region.
 
-## 9. Key terms
+## 9. Latissimus dorsi and teres major
 
-| Term | Meaning |
+![Latissimus dorsi and teres major](diagrams/07-lats-teres-map.png)
+
+| Point | Latissimus dorsi | Teres major |
+|---|---|---|
+| Name | "Widest back" | Cylindrical, bigger than teres minor |
+| Origin | T7 to the sacrum and coccyx (via the thoracolumbar fascia), iliac crest, last 3 ribs, inferior angle of the scapula | Inferior angle of the scapula |
+| Insertion | Front of the humerus, intertubercular (bicipital) groove | Same groove |
+| Functions | Shoulder extension, adduction, internal rotation | Same |
+
+- Fibres go **under** the arm to the front of the humerus.
+- **Horizontal fibres** (T7 to T12) and **diagonal fibres** (lumbar, sacrum, iliac crest, last 3 ribs) is a teaching split.
+
+## 10. Functions
+
+![Three functions](diagrams/08-lats-three-functions.png)
+
+| Plane | Function |
+|---|---|
+| Sagittal | Shoulder extension |
+| Frontal | Shoulder adduction |
+| Transverse | Shoulder internal rotation |
+
+- Multiplanar muscle. **Do not train it with internal rotation.** Use extension and/or adduction.
+
+## 11. Exercise categories
+
+| Function | Compound | Isolation |
+|---|---|---|
+| Shoulder extension | Chin-up (narrow grip), close grip lat pulldown, most rows | Straight arm pulldown |
+| Shoulder adduction | Wide grip pull-up, wide grip lat pulldown | Multi-gym lever machine |
+
+- Rows: bent over, T-bar, seated, one arm, chest-supported. Support: unsupported (bent over), pelvic girdle (seated row), pelvic girdle and spine (chest-supported).
+- **Thickness vs width:** extension uses more horizontal fibres (thicker back), adduction uses more diagonal fibres (wider back). Do both.
+- **Myth:** a very wide grip does not create a V-taper.
+
+## 12. Pullover
+
+![Pullover comparison](diagrams/18-pullover-compare.png)
+
+- Dumbbell pullover, positions A, B, C: A to B the chest drives, B to C the lats but the weight travels down. Not good for the lats or the chest.
+- Resistance profile for isolation: **free weight < cable < cam machine**.
+- Better: **straight arm pulldown** (cable) and **machine pullover** (cam, supported at pelvis and spine, elbows pre-flexed on pads, only the shoulder moves).
+
+## 13. Grips, barbell, belt and hip hinge
+
+![Barbell, plates and grips](diagrams/26-barbell-plates-grips.png)
+
+| Grip | Meaning |
+|---|---|
+| Supinated | Palm up |
+| Pronated | Palm down |
+| Mixed (alternate, dead grip) | One up, one down (deadlift) |
+| Hammer, neutral, mid-prone | Palms facing |
+| Natural hang grip | Palms facing the thighs, dumbbells only |
+| False (thumbless, suicide) grip | Thumb not wrapped |
+
+- Supinated grip lifts the most in rows (biceps brachii works best). Do not force it on people with poor wrist or forearm mobility.
+- Barbell parts: collar (fastener), sleeve, shaft, knurling.
+- Plates: 25 red, 20 blue, 15 yellow, 10 green, 5 black or grey.
+- Straps so the prime mover fails first. Chalk is magnesium carbonate.
+- **Belt:** not for lumbar support. Valsalva plus a belt raises abdominal pressure so the spine cannot round. Keep the Valsalva going.
+
+![Valsalva and the belt](diagrams/27-belt-valsalva.png)
+
+- **Hip hinge** beats leaning forward: the centre of gravity stays over the base.
+
+![Hip hinge versus leaning](diagrams/25-hip-hinge-vs-lean.png)
+
+## 14. Key terms
+
 |---|---|
 | Muscle function | The joint action when the muscle contracts |
 | Superficial and deep | Close to the surface and away from it |
@@ -113,16 +182,24 @@
 | Lordotic | Curve bulging to the front |
 | Kyphotic | Curve bulging to the back |
 | Neutral spine | The natural curves held, no rounding |
+| Multiplanar | Working in more than one plane |
+| Thoracolumbar fascia | The white fascia over the thoracic and lumbar spine |
+| Intertubercular groove | Groove between the greater and lesser tubercles of the humerus |
+| Moment arm | Perpendicular distance from the fulcrum to the line of force |
+| Valsalva | Breath held to brace the trunk |
+| Hip hinge | Bending by pushing the hips back |
 
-## 10. Where the sources differ
+## 15. Where the sources differ
 
 - **Spinalis origin:** T11, T12 and the tip of L1 (lecture) versus L2 to T11 (slide).
 - **Iliocostalis origin:** thoracic region excluded (lecture) versus up to T11 (slide).
 - **Back extension:** spine extension (slide) versus neutral spine, isometric (lecture).
 - **Levator scapulae and neck extension:** on the slide, not in the lecture.
 - **Multifidus insertion:** skip one vertebra (lecture) versus 2 to 4 levels (slide).
+- **Pullover and "eccentric":** the argument is really about the resistance profile, not the contraction type.
+- **Teres major:** not strictly a synergist. It depends on the exercise.
 
-## 11. Revision questions
+## 16. Revision questions
 
 1. What are the three reasons to train the back?
 2. What is the order of analysis for each muscle?
@@ -144,6 +221,25 @@
 18. Which of the three functions is isometric, and why is it the most important?
 19. Name the four spinal curves and their types.
 20. Which segment of the erector spinae group is in the lumbar region?
+21. What do "latissimus" and "teres" mean?
+22. State the origin and insertion of the latissimus dorsi.
+23. Why do the fibres go "under" the arm?
+24. What are the horizontal and diagonal fibres?
+25. State the functions of the latissimus dorsi and teres major.
+26. Which function should not be used to train the latissimus dorsi?
+27. Give a compound and an isolation exercise for shoulder extension.
+28. Give a compound exercise for shoulder adduction.
+29. How does a wider grip change the exercise?
+30. What gives a thicker back, and what gives a wider back?
+31. Why is the dumbbell pullover not recommended?
+32. Rank free weight, cable and cam machine for isolation.
+33. Describe the machine pullover.
+34. Which grip lifts the heaviest in rows and why?
+35. What is the natural hang grip and why use it?
+36. Name the parts of a barbell.
+37. Give the plate colour code.
+38. What is the real job of a lifting belt?
+39. Why is the hip hinge preferred over leaning forward?
 
 ## Answers
 
@@ -167,6 +263,25 @@
 18. Maintaining neutral spine. The length does not change. It stops the spine rounding in daily lifting, the bent over row and the deadlift.
 19. Cervical (lordotic), thoracic (kyphotic), lumbar (lordotic), sacral (kyphotic).
 20. Iliocostalis lumborum.
+21. Latissimus is "widest" and dorsi is "back". Teres is cylindrical.
+22. Origin: T7 to the sacrum and coccyx via the thoracolumbar fascia, iliac crest, last three ribs, inferior angle of the scapula. Insertion: the intertubercular groove at the front of the humerus.
+23. The fibres pass beneath the arm to reach the front of the humerus.
+24. Horizontal: from T7 to T12. Diagonal: from the lumbar region, sacrum, iliac crest and last three ribs.
+25. Shoulder extension, shoulder adduction, shoulder internal rotation.
+26. Internal rotation.
+27. Compound: chin-up, close grip lat pulldown or rows. Isolation: straight arm pulldown.
+28. Wide grip pull-up or wide grip lat pulldown.
+29. The elbows leave the sagittal plane and enter the frontal plane, so the action changes from extension to adduction.
+30. Horizontal fibres (extension exercises) give thickness. Diagonal fibres (adduction exercises) give width.
+31. A to B is the chest and in B to C the weight travels down, so the lats get poor resistance.
+32. Free weight is lowest, cable is higher, cam machine is the best.
+33. Seated, supported at the pelvic girdle and spine, elbows pre-flexed on pads, only the shoulder moves into extension against a cam.
+34. The supinated grip, because the biceps brachii works best in it.
+35. Arms hang with palms facing the thighs, using dumbbells. It is wrist friendly so the set ends from prime mover failure.
+36. Collar, sleeve, shaft and knurling.
+37. 25 kg red, 20 kg blue, 15 kg yellow, 10 kg green, 5 kg black or grey.
+38. With Valsalva it raises abdominal pressure in front of the spine so the spine cannot round.
+39. The centre of gravity stays over the base of support and the weight is spread evenly.
 
 ---
 

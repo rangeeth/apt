@@ -69,9 +69,9 @@ TOPICS = [
          blurb='The back muscles (trapezius, levator scapulae, rhomboids, erector spinae group, multifidus, latissimus dorsi, teres major), their functions, and every back exercise with figures showing how to perform it.',
          lectures=[
              dict(slug='lecture-1', src='25 - Back Lecture', prefix='Back Lecture', title='Back Lecture',
-                  desc='Why train the back, the trapezius, levator scapulae, rhomboids, erector spinae group and multifidus, muscle function, spine curves and segments.'),
+                  desc='Theory: why train the back, the seven back muscles, muscle function, spine curves and segments, the latissimus dorsi and teres major, exercise categories, the pullover, and grips, barbell, belt and hip hinge.'),
              dict(slug='lecture-2', src='26 - Back Demo', prefix='Back Demo', title='Back Demo',
-                  desc='Latissimus dorsi and teres major, the pullover, grips, barbell, belt and hip hinge, and every back exercise: rows, pulldowns, chin-up, pull-up, shrugs, prone high row, prone and reverse shrugs, good morning, back extensions, superman and the deadlift, with exercise figures.'),
+                  desc='Demo: bent over rows, one arm row, seated and supported rows, lat pulldown, chin-up, pull-up, straight arm pulldown, shrugs, prone high row, prone and reverse shrugs, good morning, back extensions, superman and the deadlift, with exercise figures.'),
          ]),
 ]
 
@@ -430,6 +430,11 @@ def copy_sources(src):
     for t in TOPICS:
         for lec in t['lectures']:
             s = os.path.join(src, lec['src'])
+            # tools/site-sources/<src> holds the version of a lecture's notes arranged for the site
+            # (theory in the lecture page, exercises in the demo page). It wins over the Notes folder.
+            ov = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'site-sources', lec['src'])
+            if os.path.isdir(ov):
+                s = ov
             d = os.path.join(NOTES, t['slug'], lec['slug'])
             os.makedirs(d, exist_ok=True)
             for kind, long in (('Detailed Notes', 'detailed-notes'), ('Study Notes', 'study-notes')):
