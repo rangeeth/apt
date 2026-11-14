@@ -81,6 +81,30 @@ TOPICS = [
              dict(slug='lecture-2', src='29 - Legs Demo', prefix='Legs Demo', title='Legs Demo',
                   desc='Demo: squats, lunges, step-ups, the leg press, stiff leg and Romanian deadlifts, hip isolation, leg extension, leg curls, calf and tibialis exercises, and abduction and adduction, with exercise figures.'),
          ]),
+    dict(slug='chest-shoulder', title='Chest Shoulder', podcast_dir='Chest Shoulder',
+         blurb='The shoulder joint, rotator cuff group, deltoids and pectoralis major (three heads), bench angles, and every chest and shoulder exercise with figures showing how to perform it.',
+         lectures=[
+             dict(slug='lecture-1', src='31 - Chest Shoulder Lecture', prefix='Chest Shoulder Lecture', title='Chest Shoulder Lecture',
+                  desc='Theory: why train chest and shoulder, the glenohumeral joint, the rotator cuff group, the deltoids, the pectoralis major and its three heads, bench angles and the pectoralis minor.'),
+             dict(slug='lecture-2', src='32 - Chest Shoulder Demo', prefix='Chest Shoulder Demo', title='Chest Shoulder Demo',
+                  desc='Demo: bench presses, cable and machine presses, flies, overhead presses, lateral raises, upright row, posterior deltoid exercises, the multi-flight machine and rotator cuff exercises, with exercise figures.'),
+         ]),
+    dict(slug='arms', title='Arms', podcast_dir='Arms',
+         blurb='The four arm muscle groups (elbow flexors and extensors, wrist flexors and extensors), joints crossed, the grip ranking table, the triceps long head, forearm names, and the curl, triceps and grip exercises.',
+         lectures=[
+             dict(slug='lecture-1', src='34 - Arms Lecture', prefix='Arms Lecture', title='Arms Lecture',
+                  desc='Theory: upper arm and forearm groups, the biceps, brachialis and brachioradialis, the grip ranking table, the triceps and its long head problem areas, and the forearm muscles with how their names are built.'),
+             dict(slug='lecture-2', src='34 - Arms Demo', prefix='Arms Demo', title='Arms Demo',
+                  desc='Demo: curl variations, hammer and reverse curls, cable curls, triceps exercises sorted by problem area, wrist curls and grip exercises, with exercise figures.'),
+         ]),
+    dict(slug='abs', title='Abs', podcast_dir='Abs',
+         blurb='The core and the eight abdominal muscles, the genetics of the six-pack, which exercises are spine flexion and which are hip flexion, the obliques, transversus abdominis, and every abs exercise with figures.',
+         lectures=[
+             dict(slug='lecture-1', src='35 - Abs Lecture', prefix='Abs Lecture', title='Abs Lecture',
+                  desc='Theory: the core, the eight abdominal muscles, rectus abdominis and the six-pack myth, the iliopsoas and psoas minor, leg raises, the obliques, transversus abdominis, the layers of the wall and quadratus lumborum.'),
+             dict(slug='lecture-2', src='36 - Abs Demo', prefix='Abs Demo', title='Abs Demo',
+                  desc='Demo: forward and reverse crunches, the reverse crunch start position, torso rotation, lateral flexion, planks and side planks, and the advanced schedule, with exercise figures.'),
+         ]),
 ]
 
 # Every lecture in the order of the course. (title, topic slug, lecture slug) once its notes exist.
@@ -93,8 +117,8 @@ COURSE = [
     ('Resistance Profile',), ('Classification of Exercises and Tools',),
     ('Intro to K11 Selection Criteria of Exercises',), ('Stretching 1','stretching','lecture-1'), ('Stretching 2','stretching','lecture-2'), ('Unit Test 1',),
     ('Back Lecture','back','lecture-1'), ('Back Demo','back','lecture-2'), ('Legs Lecture','legs','lecture-1'), ('Legs Demo','legs','lecture-2'),
-    ('Chest Shoulder Lecture',), ('Chest Shoulder Demo',), ('Abs Lecture',), ('Abs Demo',),
-    ('Arms & Arms Demo',), ('Unit Test 2',),
+    ('Chest Shoulder Lecture','chest-shoulder','lecture-1'), ('Chest Shoulder Demo','chest-shoulder','lecture-2'), ('Abs Lecture','abs','lecture-1'), ('Abs Demo','abs','lecture-2'),
+    ('Arms Lecture','arms','lecture-1'), ('Arms Demo','arms','lecture-2'), ('Unit Test 2',),
     ('Cardio Regulations 1', 'cardio-regulations', 'lecture-1'), ('Cardio Regulations 2', 'cardio-regulations', 'lecture-2'),
     ('Fitness Testing 1', 'fitness-testing', 'lecture-1'), ('Fitness Testing 2', 'fitness-testing', 'lecture-2'),
     ('Scheduling 1', 'scheduling', 'lecture-1'), ('Scheduling 2', 'scheduling', 'lecture-2'),
