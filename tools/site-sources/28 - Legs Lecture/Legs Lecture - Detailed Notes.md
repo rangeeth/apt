@@ -4,7 +4,7 @@
 
 **Topic:** The legs as a body part: why train them, a recap of the hip, knee and ankle joints and their actions, the quadriceps femoris (names, landmarks, origins, insertion, articulation, functions), compound and isolation exercises, reciprocal inhibition and the leg extension, the hamstrings, gluteal group, adductors and sartorius, and the lower leg (gastrocnemius, soleus, tibialis anterior)
 
-**About these notes:** Detailed notes for the Legs Lecture (the theory), written so the whole lecture can be studied without watching the recordings. The first part of the leg teaching, the quadriceps, was taught in the lecture session. The lower leg theory was taught at the start of the demo session and is placed here with the other theory. The hamstrings, gluteal group, adductors and sartorius are covered from the course slides and the board photos, because no recording of that teaching was available (see Points to Confirm). The exercise demonstrations are in the Legs Demo notes. For a short revision version, see the Study Notes. Sources: the session recordings, the course slides ("Body part 2: Legs") and the board photos. The figures are original drawings made for these notes.
+**About these notes:** Detailed notes for the Legs Lecture (the theory), written so the whole lecture can be studied without watching the recordings. The first part of the leg teaching, the quadriceps, was taught in the lecture session. The lower leg theory was taught at the start of the demo session and is placed here with the other theory. The hamstrings, gluteal group, adductors and sartorius were taught in a second session of the lecture and are covered in Part 7. The exercise demonstrations are in the Legs Demo notes. For a short revision version, see the Study Notes. Sources: the session recordings (including the second lecture session), the course slides ("Body part 2: Legs") and the board photos. The figures are original drawings made for these notes.
 
 ---
 
@@ -176,48 +176,103 @@ The leg extension trains all four muscles. With the seat reclined it is the one 
 
 ## Part 7: Hamstrings, gluteal group, adductors and sartorius
 
-This part follows the course slides and the board photos.
+The posterior thigh, the pelvis, the inner thigh and the sartorius are taught as groups two to four plus one independent muscle. The same order is used for each: muscle, origin and insertion, articulation (how many joints it crosses), function, then exercises.
 
-### 7.1 Hamstrings
+### 7.1 Hamstrings (posterior thigh)
 
-| Muscle | Origin | Insertion | Function |
+Three muscles: the **biceps femoris** (two heads, "bi" for two and "ceps" for heads, on the femur, so the full name is biceps femoris, never just biceps), the **semimembranosus** and the **semitendinosus**. "Semi" means half. The semimembranosus looks half muscle and half thin membrane (a sheet). The semitendinosus looks half muscle and half tendon.
+
+| Muscle | Origin | Insertion | Joints crossed |
 |---|---|---|---|
-| Biceps femoris, long head | Ischial tuberosity | Head of the fibula and the outer tibia | Knee flexion and hip extension |
-| Biceps femoris, short head | Linea aspera of the femur | Same | Knee flexion only |
-| Semitendinosus | Ischial tuberosity | Inner (medial) tibia | Knee flexion and hip extension |
-| Semimembranosus | Ischial tuberosity | Inner (medial) tibia | Knee flexion and hip extension |
+| Semimembranosus | Ischial tuberosity | Medial condyle of the tibia | Hip and knee (2) |
+| Semitendinosus | Ischial tuberosity | Medial to the tibial tuberosity on the tibia | Hip and knee (2) |
+| Biceps femoris, long head | Ischial tuberosity | Junction of the head of the fibula and the lateral condyle of the tibia | Hip and knee (2) |
+| Biceps femoris, short head | Linea aspera of the femur | Same junction as the long head | Knee only (1) |
 
-Three of the four heads cross the hip and the knee, so the hamstrings are mostly biarticular. The short head of the biceps femoris starts on the femur and crosses the knee only. Exercises: the leg curl for knee flexion, and the stiff leg deadlift or Romanian deadlift for hip extension.
+The long head is longer because it starts on the pelvis, and the short head starts on the femur. Because the three biarticular muscles start on the ischial tuberosity (part of the hip), they must cross the hip axis and then the knee axis. The short head starts and ends below the hip, so it crosses only the knee. The number 2 is written next to the long head, and the number 1 next to the short head, not next to biceps femoris as a whole.
 
-![Board: hamstrings](board/board-4-hamstrings.jpg)
-
-### 7.2 Gluteal group
-
-| Muscle | Origin | Insertion | Function |
-|---|---|---|---|
-| Gluteus maximus | Ilium, sacrum and coccyx | Gluteal tuberosity and the iliotibial band | Hip extension and external rotation |
-| Gluteus medius | Ilium | Greater trochanter | Hip abduction, stabilising the pelvis from side to side, internal rotation |
-| Gluteus minimus | Ilium | Greater trochanter | Same as the gluteus medius |
-
-Exercises: the hip thrust, squats and deadlifts for the gluteus maximus, and standing cable abduction for the gluteus medius and minimus.
-
-![Board: gluteal group and its exercises](board/board-5-gluteal-group-exercises.jpg)
-
-### 7.3 Adductors and sartorius
-
-| Muscle | Function |
-|---|---|
-| Adductor magnus | Hip adduction and hip extension |
-| Adductor longus and brevis | Hip adduction |
-| Sartorius | Hip flexion, abduction and external rotation, and knee flexion |
-
-The sartorius runs from the ASIS across the thigh to the inner upper tibia. It is the longest muscle in the body, and it works mostly as a stabiliser.
-
-Exercises: the seated and standing adduction for the adductors. The sartorius has no direct exercise. The adductor magnus is the muscle that takes over hip extension at the bottom of a deep squat or deadlift.
+**Functions.** The biarticular members do **knee flexion** (the lower leg moves toward the thigh) and **hip extension** (when the hip is flexed they are lengthened, and shortening returns the femur). The short head does **knee flexion only**.
 
 ![Hamstrings, gluteal group, adductors and sartorius](diagrams/L03-hamstrings-gluteal-adductors.png)
 
+**Hip extension and the compound problem.** The compound exercises for hip extension are the same ones used for the vasti (squat, regular and sumo deadlift, leg press, lunges, step-ups). The biarticular hamstrings cannot contribute well in them, for the same reason the rectus femoris could not (Part 6), seen from the knee instead of the hip. In the concentric phase the knee extends, so the knee extensors (the vasti) contract and the knee flexors, which are the hamstrings, must relax. A hamstring relaxed at the knee relaxes along its whole length and cannot also extend the hip. This is **reciprocal inhibition**. The hip is not short of extensors, because two other muscles do hip extension without crossing the knee (the gluteus maximus and the adductor magnus), so the compound exercises are still fine for those.
+
+**Isolation for the hamstrings.** Two kinds, and both are needed.
+
+- **Hip extension isolation:** remove knee movement so only the hip works. The **stiff leg deadlift** and the **Romanian deadlift** keep the knee extended, so there is no knee extension in the concentric and no reciprocal inhibition. (The regular deadlift bends the knee, which is why it is not suitable.) The two lifts differ in small ways that are shown in the demo.
+- **Knee flexion isolation:** the **leg curl**. It is the only way to train the short head, which has nothing to do with the hip, so a hip extension isolation alone does not train the whole group. It also helps the biarticular members, so it is marked as the most important exercise.
+
+**Which leg curl?** The long head, semimembranosus and semitendinosus face muscle active insufficiency if they are already contracted at the hip. There are three machines:
+
+![Three leg curl machines](diagrams/L05-leg-curls.png)
+
+1. **Lying flat (prone):** the hip is fully extended, so the biarticular hamstrings are already contracted at the hip and cannot contract well at the knee. The hips tend to lift off the bench, which is the body trying to flex the hip and lengthen them.
+2. **Angled bench:** the hip is slightly flexed, so the contraction at the hip is partly removed and the contribution is better.
+3. **Seated:** the hip is flexed, so the biarticular members are properly lengthened at the hip and can contract fully at the knee. The short head works in all three. The **seated leg curl** is the one to include, as the reclined seat is for the leg extension.
+
+![Board: hamstrings](board/board-4-hamstrings.jpg)
+
+### 7.2 Gluteal group (pelvis)
+
+Three muscles with the same first name, and the second name tells the size: **maximus** (largest), **medius** (medium) and **minimus** (smallest). The gluteus maximus is the **largest** muscle in the body (the widest is the latissimus dorsi, the longest is the sartorius). Use the full names, not "glutes".
+
+| Muscle | Origin | Insertion |
+|---|---|---|
+| Gluteus maximus | Posterior part of the gluteal surface of the ilium, sacrum and coccyx | Iliotibial (IT) band and the gluteal tuberosity of the femur |
+| Gluteus medius | Lateral (curved) part of the gluteal surface of the ilium, higher | Greater trochanter |
+| Gluteus minimus | Same surface, lower, deep to the medius | Greater trochanter |
+
+- The **IT band** is a tough band of connective tissue (not a bone, tendon or ligament) between the ilium and the tibia, which gives stability in lower body movement. The gluteal tuberosity is named after the muscle, not the bone. The gluteus maximus has diagonal and horizontal fibres, but no official upper and lower parts.
+- The medius is superficial and the minimus is deep, and together they look like a mushroom or a petroleum company logo. They do exactly the same job.
+- All three cross the hip only (uniarticular).
+
+**Functions of the gluteus maximus:** hip extension (diagonal fibres), hip external rotation and **hip horizontal abduction** (horizontal fibres, as on an abductor machine with the knees together at the start). It does not do abduction in the frontal plane.
+
+**Functions of the gluteus medius and minimus:** hip **abduction** (frontal plane), hip rotation (internal by the front fibres, external by the back fibres) and, the most important, **lateral stabilisation of the hip**: when one leg is lifted, they work isometrically on the supporting side and keep the pelvis level. Walking is a series of one-leg moments. Apes have no medius or minimus because their ilium is flat, so they use all four limbs.
+
+**Exercises:**
+
+| Function | Compound | Isolation |
+|---|---|---|
+| Gluteus maximus hip extension | Squats, regular and sumo deadlift, leg press, lunges, step-ups | Hip thrust, glute kickback (cable or machine), cable pull through, Romanian and stiff leg deadlift, back extension |
+| Gluteus maximus horizontal abduction | | Abductor machine with the setup for horizontal abduction |
+| Medius and minimus abduction | | Standing cable abduction (ankle strap on the leg away from the machine) |
+| Medius and minimus lateral stabilisation | Lunges, step-ups, pistol squats (Bulgarian split squat too) | |
+
+The hip thrust is isolation because only the hip moves: the knee only opens and closes like a hinge and the vasti do no real work. Compound and isolation both build muscle: compound saves time and trains the hip and knee together, and isolation lets the nervous system recruit only the target. External and internal rotation are not trained on their own.
+
+**Lateral stabilisation needs unilateral and unsupported work.** A unilateral leg press does not qualify, because the person is seated and supported. The exercise must be on one leg and unsupported.
+
+![Board: gluteal group and its exercises](board/board-5-gluteal-group-exercises.jpg)
+
+### 7.3 Adductors (inner thigh)
+
+Medically five muscles, but fitness science uses three: **adductor magnus** (mega, big), **adductor longus** and **adductor brevis**. All start on different parts of the pelvic girdle and insert on the **linea aspera**. The brevis covers the upper third, the longus the upper two thirds and the magnus the whole line.
+
+- All three have **diagonal fibres**, so all three do **hip adduction** (the femur goes toward the midline).
+- The magnus also has **vertical fibres** that run to the **medial condyle of the femur** (so they do not cross the knee). They give the magnus a second function, **hip extension**, which the longus and the brevis do not have.
+
+**Exercises for adduction:** cable adduction (ankle strap, start with the leg abducted), the adductor machine set up with the pad on the inner side, and the **sumo deadlift or sumo squat**, where the wide stance makes adduction happen in the concentric together with hip and knee extension.
+
+### 7.4 Hip extension relay: three extensors
+
+Three muscles extend the hip: the gluteus maximus, the adductor magnus and the hamstrings (the biarticular members). They share the range like runners in a relay, and all three are always present.
+
+![Hip extension relay and compound exercises](diagrams/L06-hip-extensors.png)
+
+- **Bottom (hip flexed):** the adductor magnus leads (its vertical fibres have the longest moment arm).
+- **Middle:** the hamstrings lead.
+- **Top (hip extended):** the gluteus maximus leads (it is next to the hip joint).
+
+In a **stiff leg deadlift** with a free weight, the moment arm (distance from the hip to the vertical line of force) is longest at the bottom and shortest at the top, so the adductor magnus enjoys the best resistance profile and the gluteus maximus the worst. In a **regular deadlift** only two hip extensors share the work, because the hamstrings are inhibited. A cable (pull through) or a cam gives a more even resistance, and the gluteus maximus gets resistance at the top range. A hyperextension machine works at the top range where the gluteus maximus leads and the resistance is good. Therefore the hamstrings need isolation, and the gluteus maximus and adductor magnus work in both compound and isolation.
+
 ![Board: adductors and sartorius](board/board-6-adductors-sartorius.jpg)
+
+### 7.5 Sartorius
+
+The sartorius is a single muscle that is **independent** (not in a group) and is never a prime mover. It is a **stabiliser of the leg** in lower body exercises. It is the **longest muscle in the body** (the smallest is the stapedius in the ear). It starts on the ASIS and inserts on a point inferior and medial to the tibial tuberosity, wrapping the thigh like a snake, so it crosses the hip and the knee.
+
+Its four stabilising functions are **hip flexion, hip abduction, hip external rotation and knee flexion**. Performed in order, they put the leg in the cross-legged position of a tailor, which is how the name was made (sartor is the Greek for tailor, in the class explanation). It is visible only in some segments, and only in very lean people. It is not trained directly.
 
 ---
 
@@ -256,10 +311,11 @@ The tibialis anterior is the opposing muscle and has its own exercise, the toe r
 | Muscle or group | Function | Exercise examples |
 |---|---|---|
 | Quadriceps | Knee extension (rectus also hip flexion) | Squats, lunges, step-ups, leg press, leg extension (reclined) |
-| Hamstrings | Knee flexion, hip extension | Leg curls, stiff leg and Romanian deadlifts |
-| Gluteus maximus | Hip extension, external rotation | Hip thrust, deadlifts, squats |
-| Gluteus medius and minimus | Hip abduction, pelvic stability | Standing cable abduction, lunges |
-| Adductors | Hip adduction (magnus also extension) | Seated and standing adduction |
+| Hamstrings | Knee flexion, hip extension (isolation only) | Seated leg curl, stiff leg and Romanian deadlifts |
+| Gluteus maximus | Hip extension, external rotation, horizontal abduction | Hip thrust, kickback, cable pull through, deadlifts, squats |
+| Gluteus medius and minimus | Hip abduction, rotation, lateral hip stabilisation | Standing cable abduction; lunges, step-ups, pistol squats (unilateral, unsupported) |
+| Adductors | Hip adduction (magnus also extension) | Cable and machine adduction, sumo deadlift and squat |
+| Sartorius | Leg stabiliser (hip flexion, abduction, external rotation, knee flexion) | No direct exercise |
 | Gastrocnemius | Plantarflexion | Standing calf raise, calf press |
 | Soleus | Plantarflexion | Seated calf raise |
 | Tibialis anterior | Dorsiflexion | Toe raise |
@@ -268,15 +324,15 @@ The tibialis anterior is the opposing muscle and has its own exercise, the toe r
 
 ## Key takeaways
 
-The legs carry the body, produce the most power and matter in daily life and sport. The quadriceps have four muscles, and only the rectus femoris crosses the hip, which makes it biarticular and explains why compound exercises under-train it through reciprocal inhibition. Recline the seat on the leg extension to avoid active insufficiency. The hamstrings flex the knee and extend the hip, the gluteus maximus extends the hip, the gluteus medius and minimus abduct and stabilise the pelvis, and the adductors adduct. In the calf, the gastrocnemius crosses the knee and the soleus does not, so train the calf with the knee straight and with the knee bent. The tibialis anterior dorsiflexes the ankle and has its own exercise.
+The legs carry the body, produce the most power and matter in daily life and sport. The quadriceps have four muscles, and only the rectus femoris crosses the hip, which makes it biarticular and explains why compound exercises under-train it through reciprocal inhibition. Recline the seat on the leg extension to avoid active insufficiency. The hamstrings flex the knee and extend the hip, but the biarticular members are blocked in compound lifts by reciprocal inhibition, so they need isolation (stiff leg and Romanian deadlifts, and the seated leg curl, which also trains the short head). The gluteus maximus extends the hip, rotates it externally and does horizontal abduction, the gluteus medius and minimus abduct and stabilise the hip from the side (so train them with unilateral, unsupported exercises), and the adductors adduct, with the magnus also extending the hip. The adductor magnus, hamstrings and gluteus maximus share hip extension like a relay from the bottom to the top range. The sartorius is the independent, longest muscle and a leg stabiliser. In the calf, the gastrocnemius crosses the knee and the soleus does not, so train the calf with the knee straight and with the knee bent. The tibialis anterior dorsiflexes the ankle and has its own exercise.
 
 ---
 
 ## Points to Confirm
 
-1. **Recording gap.** The recording of the leg lecture covers the quadriceps only. The teaching of the hamstrings, gluteal group, adductors and sartorius was not in the material provided, so Part 7 follows the course slides and the board photos. Please check it against what was taught in class.
-2. **Gluteus medius and minimus.** The slides list abduction and internal rotation, and they also describe the lateral hip stabiliser role. Check which wording the course uses.
-3. **Hamstring origin of the short head.** The short head of the biceps femoris is taken from the slides (linea aspera). Check against the class version.
+1. **Leg curl machines.** The three machine types are described from the class explanation. The demo notes show the machines.
+2. **Gluteus medius and minimus.** The slides list abduction and internal rotation. The class gave abduction, rotation both ways and lateral stabilisation of the hip. The class version is used.
+3. **Hip extension relay.** The class said the three extensors take turns in the bottom, middle and top range, and also that there are no hard boundaries. This is shown as the leading muscle by range.
 4. **Rectus femoris study.** The reclined leg extension study was mentioned in class without a citation. Confirm the reference if it is needed in the notes.
 5. **Landmark wording.** "Trochanter means runner" is a memory aid from class and is based on the Greek word.
 6. **Lower leg placement.** The lower leg theory was taught at the start of the demo session. It is placed here so every theory topic is in the lecture notes.

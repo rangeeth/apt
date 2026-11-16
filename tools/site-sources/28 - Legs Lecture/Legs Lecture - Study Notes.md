@@ -43,16 +43,20 @@ The hip, knee and ankle are the three load bearing joints.
 
 ## 5. Hamstrings
 
-- Biceps femoris (long and short head), semitendinosus, semimembranosus.
-- Knee flexion. All but the short head also extend the hip.
-- Exercises: leg curl, stiff leg and Romanian deadlift.
+- Biceps femoris (long head, short head), semitendinosus, semimembranosus. Origin: ischial tuberosity (the short head: linea aspera).
+- **Long head, semitendinosus, semimembranosus:** biarticular (hip and knee). **Short head:** knee only.
+- Functions: knee flexion (all), hip extension (the three biarticular members).
+- **Compound problem:** in squats, deadlifts, leg press and lunges the knee extends, so the knee flexors (hamstrings) relax. This is reciprocal inhibition, so the hamstrings need **isolation**.
+- **Isolation:** stiff leg and Romanian deadlifts (hip extension, knee stays extended) and the leg curl (knee flexion). The leg curl is the only exercise for the short head.
+- **Leg curl type:** lying flat (hip extended, already contracted), angled bench (better), **seated** (hamstrings lengthened at the hip, best).
 
 ## 6. Gluteal group, adductors, sartorius
 
-- **Gluteus maximus:** hip extension and external rotation (hip thrust, deadlifts, squats).
-- **Gluteus medius and minimus:** hip abduction and pelvic stability (standing cable abduction).
-- **Adductors:** hip adduction, and the magnus also extends the hip (seated and standing adduction).
-- **Sartorius:** longest muscle, a stabiliser (hip flexion, abduction, external rotation, knee flexion).
+- **Gluteus maximus** (the largest muscle): hip extension, external rotation, horizontal abduction. Hip thrust, kickback, cable pull through, deadlifts and squats.
+- **Gluteus medius and minimus:** abduction, rotation (both ways) and **lateral stabilisation of the hip** (isometric). Standing cable abduction. Stabilisation needs **unilateral and unsupported** exercises (lunges, step-ups, pistol squats), not a unilateral leg press.
+- **Adductors (magnus, longus, brevis):** hip adduction. The magnus also has vertical fibres to the medial condyle of the femur and extends the hip. Cable and machine adduction, sumo deadlift and squat.
+- **Hip extension relay:** adductor magnus at the bottom, hamstrings in the middle, gluteus maximus at the top.
+- **Sartorius:** the longest muscle, independent, a stabiliser. Hip flexion, abduction, external rotation and knee flexion together make the cross-legged tailor position.
 
 ## 7. Lower leg
 
@@ -76,8 +80,7 @@ The hip, knee and ankle are the three load bearing joints.
 
 ## 9. Where the sources differ
 
-- **Hamstrings, gluteals, adductors and sartorius:** no recording was available, so these follow the slides and the board photos.
-- **Gluteus medius and minimus:** the slides list abduction and internal rotation, and the class stressed the lateral hip stabiliser role.
+- **Gluteus medius and minimus:** the slides list abduction and internal rotation. The class gave abduction, rotation both ways and lateral stabilisation of the hip.
 
 ## 10. Revision questions
 
@@ -88,14 +91,17 @@ The hip, knee and ankle are the three load bearing joints.
 5. Why do compound exercises under-train the rectus femoris?
 6. What is active insufficiency?
 7. How should the leg extension seat be set to train the rectus femoris?
-8. Which hamstring head crosses the knee only?
+8. Which hamstring head crosses the knee only, and why does the leg curl matter for it?
 9. What are the functions of the gluteus maximus?
-10. What does the gluteus medius do?
+10. What are the functions of the gluteus medius and minimus, and which exercises challenge the stabilising one?
 11. Name the main adductor that also extends the hip.
 12. Why does the gastrocnemius work less in a seated calf raise?
 13. Which muscle does most of the work in a seated calf raise?
 14. Which muscle dorsiflexes the ankle?
 15. Which tendon do the gastrocnemius and soleus share?
+16. Why are the biarticular hamstrings weak in compound lifts, and which leg curl is best?
+17. Which muscle leads hip extension at the bottom, middle and top range?
+18. What is the sartorius?
 
 ## Answers
 
@@ -106,14 +112,17 @@ The hip, knee and ankle are the three load bearing joints.
 5. The hip extensors contract and inhibit the rectus femoris, a hip flexor, so only the vasti do the work.
 6. A muscle that is already shortened across one joint cannot produce much force across the other.
 7. Reclined to about 40 degrees, so the hip is open.
-8. The short head of the biceps femoris.
-9. Hip extension and external rotation.
-10. Hip abduction and stabilising the pelvis from side to side.
+8. The short head of the biceps femoris. The leg curl is the only exercise that trains it.
+9. Hip extension, external rotation and horizontal abduction.
+10. Hip abduction, rotation and lateral stabilisation of the hip. Unilateral, unsupported exercises (lunges, step-ups, pistol squats).
 11. The adductor magnus.
 12. It is already shortened at the knee, so it cannot contribute much to ankle plantarflexion.
 13. The soleus.
 14. The tibialis anterior.
 15. The Achilles tendon.
+16. Reciprocal inhibition: the knee extends, so the hamstrings relax. The seated leg curl is best.
+17. Adductor magnus (bottom), hamstrings (middle), gluteus maximus (top).
+18. The longest muscle, independent, a leg stabiliser (hip flexion, abduction, external rotation, knee flexion).
 
 ---
 
