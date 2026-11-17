@@ -57,6 +57,13 @@ TOPICS = [
                   title='Motivation, Adherence, Health & Safety in Gym Environment',
                   desc='Motivation versus adherence, intrinsic and extrinsic motivation, the TTM and Social Learning Theory, complaints, communication, gym hazards, emergencies and the code of conduct.'),
          ]),
+    dict(slug='assessment-criteria', title='Understanding Assessment Criteria', podcast_dir='Understanding Assessment Criteria',
+         blurb='The exam types and the route to the certificate, marks and passing rules, the theory exam screen, the 10 practical exercises, and how to answer the viva questions A, B, C and D.',
+         lectures=[
+             dict(slug='lecture-1', src='46 - Understanding Assessment Criteria', prefix='Understanding Assessment Criteria',
+                  title='Understanding Assessment Criteria',
+                  desc='Theory, practical and viva marks and passing rules, PV2, NSQF level 4, trauma response, the 10 practical exercises and the A, B, C, D viva questions with the D answers.'),
+         ]),
     dict(slug='stretching', title='Stretching', podcast_dir='Stretching',
          blurb='Flexibility and mobility, the stretch mechanism and stretch reflex, dynamic and static stretching, mobility drills with figures, SAS and SPS, isometric and PNF stretch, and fascia line stretches.',
          lectures=[
@@ -115,7 +122,7 @@ COURSE = [
     ('Basic Nutrition',), ('Body Composition 1',), ('Body Composition 2',), ('Body Composition 3',),
     ('Supplementation',), ('Intro to Workload',), ('Intro to Intensity',), ('Training Techniques',),
     ('Resistance Profile',), ('Classification of Exercises and Tools',),
-    ('Intro to K11 Selection Criteria of Exercises',), ('Stretching 1','stretching','lecture-1'), ('Stretching 2','stretching','lecture-2'), ('Unit Test 1',),
+    ('Intro to Selection Criteria of Exercises',), ('Stretching 1','stretching','lecture-1'), ('Stretching 2','stretching','lecture-2'), ('Unit Test 1',),
     ('Back Lecture','back','lecture-1'), ('Back Demo','back','lecture-2'), ('Legs Lecture','legs','lecture-1'), ('Legs Demo','legs','lecture-2'),
     ('Chest Shoulder Lecture','chest-shoulder','lecture-1'), ('Chest Shoulder Demo','chest-shoulder','lecture-2'), ('Abs Lecture','abs','lecture-1'), ('Abs Demo','abs','lecture-2'),
     ('Arms Lecture','arms','lecture-1'), ('Arms Demo','arms','lecture-2'), ('Unit Test 2',),
@@ -123,7 +130,7 @@ COURSE = [
     ('Fitness Testing 1', 'fitness-testing', 'lecture-1'), ('Fitness Testing 2', 'fitness-testing', 'lecture-2'),
     ('Scheduling 1', 'scheduling', 'lecture-1'), ('Scheduling 2', 'scheduling', 'lecture-2'),
     ('Unit Test 3',), ('Understanding Special Population & Professional Boundaries',),
-    ('Motivation, Adherence, Health & Safety in Gym Environment', 'motivation-health-safety', 'lecture-1'), ('Understanding Assessment Criteria',),
+    ('Motivation, Adherence, Health & Safety in Gym Environment', 'motivation-health-safety', 'lecture-1'), ('Understanding Assessment Criteria','assessment-criteria','lecture-1'),
     ("Principal's Address",), ('Others',),
 ]
 
